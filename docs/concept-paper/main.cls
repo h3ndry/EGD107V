@@ -18,7 +18,7 @@
 %------------------------------------------------------
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{tau-book}[2024/03/03 Tau-book LaTeX class]
+\ProvidesClass{main}[2024/03/03 Tau-book LaTeX class]
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{extarticle}}
 \ProcessOptions\relax
 \LoadClass[twocolumn]{extarticle}
@@ -307,7 +307,7 @@
     sorting=ynt
 ]{biblatex}
 
-\addbibresource{tau.bib}
+\addbibresource{main.bib}
 
 %------------------------------------------------------
 
