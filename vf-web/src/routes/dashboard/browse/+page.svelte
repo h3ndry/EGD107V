@@ -4,7 +4,12 @@
 	import { Separator } from '$lib/components/ui/separator';
 	import * as Tabs from '$lib/components/ui/tabs';
 	import { ScrollArea } from '$lib/components/ui/scroll-area/index.js';
-	import { AlbumArtwork, Sidebar, Menu, PodcastEmptyPlaceholder } from '../(components)/index.js';
+	import {
+		AlbumArtwork,
+		Sidebar,
+		Menu,
+		PodcastEmptyPlaceholder
+	} from '../(components)/index.js';
 	import { listenNowAlbums, madeForYouAlbums } from '../(data)/albums.js';
 	import MusicLight from '$lib/images/examples/music-light.png';
 	import MusicDark from '$lib/images/examples/music-dark.png';
