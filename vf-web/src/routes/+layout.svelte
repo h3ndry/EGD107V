@@ -2,7 +2,7 @@
 	import '../app.pcss';
 </script>
 
-<div class="app">
+<div>
 	<main>
 		<slot />
 	</main>

@@ -1,35 +1,35 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % LaTeX template ~ 'tau-book.tex'
 %
-% Description: Tau-book is a LaTeX template that offers 
-% a clean and professional design for lab reports or 
-% academic papers. The clarity of the code structure 
-% makes it easy to understand and modify for your needs. 
-% This template uses an easy-to-read font and high 
+% Description: Tau-book is a LaTeX template that offers
+% a clean and professional design for lab reports or
+% academic papers. The clarity of the code structure
+% makes it easy to understand and modify for your needs.
+% This template uses an easy-to-read font and high
 % quality equations with "stix2".
 %
 % Version 2.0 (03/03/2024)
-% 
-% Author: 
+%
+% Author:
 % Guillermo Jimenez (memo.notess1@gmail.com)
-% 
+%
 % License:
 % Creative Commons CC BY 4.0
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % You may modify 'tau-book.cls' file according to your
-% needs and preferences. This LaTeX class file defines 
+% needs and preferences. This LaTeX class file defines
 % the document layout, formatting, and behavior.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   BIBLIOGRAPHY WITH BIBLATEX IN EXTERNAL EDITORS:
 % If the bibliography does not show up, run the 'tau.cls'
-% with biber in MikTeX console two times and re(run) 
-% 'tau-book.tex'. If the problem continues, try 
+% with biber in MikTeX console two times and re(run)
+% 'tau-book.tex'. If the problem continues, try
 % running 'tau.bib' with biber and re(run) 'tau-book.tex'.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                       WARNING:
-% It is important to proceed with caution and ensure 
-% that any modifications made are compatible with LaTeX 
-% syntax and conventions to avoid errors or unexpected 
+% It is important to proceed with caution and ensure
+% that any modifications made are compatible with LaTeX
+% syntax and conventions to avoid errors or unexpected
 % behavior in the document compilation process.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -82,7 +82,7 @@
 %------------------------------------------------------
 
 \begin{document}
-	
+
     \maketitle
     \abscontent
     % \tableofcontents  % Uncomment to activate the table of contents
@@ -94,11 +94,11 @@
 
 \section{Introduction}
 
-    \taustart{I}n the field of academic and professional document creation, having a well-designed template can greatly streamline the writing process and ensure a good final product. Introducing the ``tau-book.cls'' class, a clean and minimalist template designed for a wide range of document types, mainly academic papers and lab reports. 
+    \taustart{I}n the field of academic and professional document creation, having a well-designed template can greatly streamline the writing process and ensure a good final product. Introducing the ``tau-book.cls'' class, a clean and minimalist template designed for a wide range of document types, mainly academic papers and lab reports.
 
     Due to its clean and structured code, users can easily customize this class to their specific needs and preferences. In addition, this template uses an easy-to-read and high-quality font in equations with ``stix2''. Notable features include custom colors and settings for including notes, information and code from Matlab, C, C++ and \TeX.
-    
-    \subsection{Explanation}	
+
+    \subsection{Explanation}
 
         Throughout this guide, we will teach how to effectively use the ``tau-book'' template to ensure that users can take advantage of its potential. We will provide detailed instructions on customization options, allowing users to personalize the template to their specific needs and preferences.
 
@@ -132,7 +132,7 @@
 
     \subsection{Stix2 font package}
 
-        This \LaTeX\ template uses the stix2 font package to maintain a clean, elegant and professional look. The stix2 font provides excellent legibility. By incorporating this font package, the document maintains a consistent and clean aesthetic throughout, especially when writing equations. 
+        This \LaTeX\ template uses the stix2 font package to maintain a clean, elegant and professional look. The stix2 font provides excellent legibility. By incorporating this font package, the document maintains a consistent and clean aesthetic throughout, especially when writing equations.
 
     \subsection{Table of contents}
 
@@ -141,11 +141,11 @@
     \subsection{Header and footer}
 
         Headers and footers are designed to provide relevant and contextual information about the paper. The header shows the title of the paper, while the footer contains details such as the institution, date, paper title and authors' surnames. This arrangement ensures that readers have access to key information at all times, making the document easier to understand and reference.
-        
+
     \subsection{Caption}
 
         \subsubsection{Figures}
-        
+
             The provided \textit{captionsetup} command customizes the appearance of captions for figures in \LaTeX\ documents. It adjusts various aspects of the caption style such as format, label separator, font style and size, justification, and label font size. This setup ensures that figure captions are presented in a consistent and visually pleasing manner throughout the document. For example, in Fig. \ref{fig:enter-label}, the caption will appear with the specified formatting.
 
             \begin{figure}[H]
@@ -158,7 +158,7 @@
         \subsubsection{Tables}
 
             The \textit{captionsetup} command customizes the appearance of the captions in the document. The default table caption will display the caption below, however, there is an alternative to display the caption above the table. To do this, open the ``tau-book.cls'' class document and find the ``table caption style'' section then, change the position to above. For example, in Table \ref{tab:example}, the caption will appear with the specified formatting.
-        
+
             \begin{table}[H]
                 \centering
                 \begin{tabular}{cc}
@@ -209,7 +209,7 @@
     \lstinputlisting[caption=Example of C code, label={lst:listing-c}, language=C]{example.c}
 
     Similarly, for MATLAB codes, the ``listings'' package offers syntax highlighting and line numbering, to the MATLAB language syntax. This is particularly useful for including MATLAB scripts.
-    
+
     \lstinputlisting[caption=Example of matlab code, label={lst:listing-Mat}, language=Matlab]{example.m}
 
 \section{References}
@@ -224,7 +224,7 @@
 
     \subsection{Tau-book class - Version 2}
 
-        In version 2 of ``tau-book.cls'' new improvements and general fixes have been introduced. One of these major improvements is the table of contents, where it has been designed to have a style compatible with the template providing a more professional appearance and adapted to the user's needs. 
+        In version 2 of ``tau-book.cls'' new improvements and general fixes have been introduced. One of these major improvements is the table of contents, where it has been designed to have a style compatible with the template providing a more professional appearance and adapted to the user's needs.
 
         The subtitle formats have been modified, allowing for a more esthetically presentation of the document content. Finally, general corrections have been made to the document for the overall quality of the document.
 
