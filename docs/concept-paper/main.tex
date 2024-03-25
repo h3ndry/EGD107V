@@ -1,248 +1,270 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% LaTeX template ~ 'tau-book.tex'
-%
-% Description: Tau-book is a LaTeX template that offers
-% a clean and professional design for lab reports or
-% academic papers. The clarity of the code structure
-% makes it easy to understand and modify for your needs.
-% This template uses an easy-to-read font and high
-% quality equations with "stix2".
-%
-% Version 2.0 (03/03/2024)
-%
-% Author:
-% Guillermo Jimenez (memo.notess1@gmail.com)
-%
-% License:
-% Creative Commons CC BY 4.0
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% You may modify 'tau-book.cls' file according to your
-% needs and preferences. This LaTeX class file defines
-% the document layout, formatting, and behavior.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%   BIBLIOGRAPHY WITH BIBLATEX IN EXTERNAL EDITORS:
-% If the bibliography does not show up, run the 'tau.cls'
-% with biber in MikTeX console two times and re(run)
-% 'tau-book.tex'. If the problem continues, try
-% running 'tau.bib' with biber and re(run) 'tau-book.tex'.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                       WARNING:
-% It is important to proceed with caution and ensure
-% that any modifications made are compatible with LaTeX
-% syntax and conventions to avoid errors or unexpected
-% behavior in the document compilation process.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\documentclass[10pt,a4paper,twoside]{main}
-\usepackage[english]{babel}
-\usepackage{kappa}
-
-%------------------------------------------------------
-% Title
-%------------------------------------------------------
-
-\title{Development of an IoT-Based Virtual Fencing System with Advanced Monitoring and Animal Tracking Capabilities}
-
-%------------------------------------------------------
-% Authors, affiliations & professor
-%------------------------------------------------------
-
-\author[a,1]{Simanga H. Khoza}
-% \author[b,2]{Author 2}
-% \author[b,c,3]{Author 3}
-
-%------------------------------------------------------
-
-\affil[a]{Department of Computer Systems}
-% \affil[b]{Department of Biology}
-% \affil[c]{University of Alpha}
-
-\professor{Student Number: 214651459}
-
-%------------------------------------------------------
-% Footpage notes
-%------------------------------------------------------
-
-\institution{College name}
-\ftitle{Writing in \LaTeX}
-\theday{March 3, 2024} % \today
-\etal{et al.}
-\course{\LaTeX\ Template}
-
-%------------------------------------------------------
-% Abstract
-%------------------------------------------------------
-
-\theabstract{
-    The demand for beef is on the rise as the global population grows, despite the
-    availability of alternative protein sources. In order to meet this increasing
-    demand, it is essential to enhance the efficiency of beef production. This
-    paper proposes for a virtual fencing system that utilizes
-    IoT technology to assist farmers in efficiently managing and monitoring their
-    cattle. While other industries have already benefited from data monitoring and
-    tracking, the agricultural sector has been slower to adopt these technologies.
-    By implementing live monitoring of livestock, farmers can reduce labor costs and
-    improve overall farm management, leading to more effective yearly planning for
-    busy farms.
-}
-
-%------------------------------------------------------
-
-\keywords{\LaTeX\ class, template, laboratory report, college}
-
-%------------------------------------------------------
-
+\documentclass[conference]{main}
+\IEEEoverridecommandlockouts
+% The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{algorithmic}
+\usepackage{graphicx}
+\usepackage{textcomp}
+\usepackage{xcolor}
+\def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}
 \begin{document}
 
-    \maketitle
-    \abscontent
-    % \tableofcontents  % Uncomment to activate the table of contents
-    \thispagestyle{firststyle}
+\title{
+    Development of an IoT-Based Virtual Fencing System with Advanced Monitoring and
+    Animal Tracking Capabilities\\
+{\footnotesize Engineering Project Design -
+Department of Computer System Engineering }
+\thanks{Identify applicable funding agency here. If none, delete this.}
+}
 
-%------------------------------------------------------
-% The document begins
-%------------------------------------------------------
+\author{
+\IEEEauthorblockN{1\textsuperscript{st} Otsile Earl Kole}
+\IEEEauthorblockA{\textit{dept. Computer System Engineering} \\
+Pretoria, South Africa\\
+9701532@tut4life.ac.za}
+\and
+\IEEEauthorblockN{1\textsuperscript{st} Simanga H. Khoza}
+\IEEEauthorblockA{\textit{dept. Computer System Engineering} \\
+Pretoria, South Africa\\
+214651459@tut4life.ac.za}
+}
+
+\maketitle
+
+\begin{abstract}
+In this section you include your abstract which is not more than 300 words. An
+abstract act like a 'mini' version of the paper and follows the same structure
+as the main text (that is discussed below). It contains 4Ps of a successful
+abstract (Problem, Purpose, Process and Possible outcomes. It contains: (i) an
+introduction to the topic (Problem and purpose); (ii) the main material, method
+and research design – used or used (Process); and (iii) mentions the
+recommendations/outcomes (Possible outcomes).
+
+\end{abstract}
+
+\begin{IEEEkeywords}
+component, formatting, style, styling, insert
+\end{IEEEkeywords}
 
 \section{Introduction}
+This document is a model and instructions for \LaTeX.
+Please observe the conference page limits.
 
-    \taustart{I}n the field of academic and professional document creation, having a well-designed template can greatly streamline the writing process and ensure a good final product. Introducing the ``tau-book.cls'' class, a clean and minimalist template designed for a wide range of document types, mainly academic papers and lab reports.
+\section{Ease of Use}
 
-    Due to its clean and structured code, users can easily customize this class to their specific needs and preferences. In addition, this template uses an easy-to-read and high-quality font in equations with ``stix2''. Notable features include custom colors and settings for including notes, information and code from Matlab, C, C++ and \TeX.
+\subsection{Maintaining the Integrity of the Specifications}
 
-    \subsection{Explanation}
+The IEEEtran class file is used to format your paper and style the text. All margins,
+column widths, line spaces, and text fonts are prescribed; please do not
+alter them. You may note peculiarities. For example, the head margin
+measures proportionately more than is customary. This measurement
+and others are deliberate, using specifications that anticipate your paper
+as one part of the entire proceedings, and not as an independent document.
+Please do not revise any of the current designations.
 
-        Throughout this guide, we will teach how to effectively use the ``tau-book'' template to ensure that users can take advantage of its potential. We will provide detailed instructions on customization options, allowing users to personalize the template to their specific needs and preferences.
+\section{Prepare Your Paper Before Styling}
+Before you begin to format your paper, first write and save the content as a
+separate text file. Complete all content and organizational editing before
+formatting. Please note sections \ref{AA}--\ref{SCM} below for more information on
+proofreading, spelling and grammar.
 
-    \subsection{Specs}
+Keep your text and graphic files separate until after the text has been
+formatted and styled. Do not number text heads---{\LaTeX} will do that
+for you.
 
-        The main document ``tau-book.tex'' is designed for \textit{A4paper}, \textit{letterpaper} or \textit{legalpaper}. Using the geometry package, which specifies margins and layout dimensions, the template ensures optimal readability and aesthetic appeal, with carefully selected settings.
+\subsection{Abbreviations and Acronyms}\label{AA}
+Define abbreviations and acronyms the first time they are used in the text,
+even after they have been defined in the abstract. Abbreviations such as
+IEEE, SI, MKS, CGS, ac, dc, and rms do not have to be defined. Do not use
+abbreviations in the title or heads unless they are unavoidable.
 
-\section{Title and abstract}
+\subsection{Units}
+\begin{itemize}
+\item Use either SI (MKS) or CGS as primary units. (SI units are encouraged.) English units may be used as secondary units (in parentheses). An exception would be the use of English units as identifiers in trade, such as ``3.5-inch disk drive''.
+\item Avoid combining SI and CGS units, such as current in amperes and magnetic field in oersteds. This often leads to confusion because equations do not balance dimensionally. If you must use mixed units, clearly state the units for each quantity that you use in an equation.
+\item Do not mix complete spellings and abbreviations of units: ``Wb/m\textsuperscript{2}'' or ``webers per square meter'', not ``webers/m\textsuperscript{2}''. Spell out units when they appear in text: ``. . . a few henries'', not ``. . . a few H''.
+\item Use a zero before decimal points: ``0.25'', not ``.25''. Use ``cm\textsuperscript{3}'', not ``cc''.)
+\end{itemize}
 
-    The \textit{maketitle} command generates the title and author information section, including the title, author name, professor/supervisor name, and affiliations.
+\subsection{Equations}
+Number equations consecutively. To make your
+equations more compact, you may use the solidus (~/~), the exp function, or
+appropriate exponents. Italicize Roman symbols for quantities and variables,
+but not Greek symbols. Use a long dash rather than a hyphen for a minus
+sign. Punctuate equations with commas or periods when they are part of a
+sentence, as in:
+\begin{equation}
+a+b=\gamma\label{eq}
+\end{equation}
 
-    Then, the abstract and keywords are defined using the \textit{theabstract} and \textit{keywords} commands respectively. The abstract provides a concise summary of the article's content, while the keywords help in indexing and searching the article.
+Be sure that the
+symbols in your equation have been defined before or immediately following
+the equation. Use ``\eqref{eq}'', not ``Eq.~\eqref{eq}'' or ``equation \eqref{eq}'', except at
+the beginning of a sentence: ``Equation \eqref{eq} is . . .''
 
-    The ``tau-book.cls'' document class provides a convenient way to automatically adjust the language-specific headings like ``Abstract'' and ``Resumen'' based on the document's language settings.
+\subsection{\LaTeX-Specific Advice}
 
-    This ensures seamless integration for documents written in both English and Spanish, allowing users to focus on content creation without worrying about manual adjustments for multilingual support.
+Please use ``soft'' (e.g., \verb|\eqref{Eq}|) cross references instead
+of ``hard'' references (e.g., \verb|(1)|). That will make it possible
+to combine sections, add equations, or change the order of figures or
+citations without having to go through the file line by line.
 
-    In the code \ref{lst:listing-tex}, we show the part where you can make the manual modification in case you choose another language not defined by the class.
+Please don't use the \verb|{eqnarray}| equation environment. Use
+\verb|{align}| or \verb|{IEEEeqnarray}| instead. The \verb|{eqnarray}|
+environment leaves unsightly spaces around relation symbols.
 
-    \lstinputlisting[caption=Abstract language code, label={lst:listing-tex}, language=Tex]{example.tex}
+Please note that the \verb|{subequations}| environment in {\LaTeX}
+will increment the main equation counter even when there are no
+equation numbers displayed. If you forget that, you might write an
+article in which the equation numbers skip from (17) to (20), causing
+the copy editors to wonder if you've discovered a new method of
+counting.
 
-    You will find the code in the ``tau-book.cls'' file in the ``textit{abstract preferences}'' section (line 137-143).
+{\BibTeX} does not work by magic. It doesn't get the bibliographic
+data from thin air but from .bib files. If you use {\BibTeX} to produce a
+bibliography you must send the .bib files.
 
-\section{Aesthetics}
+{\LaTeX} can't read your mind. If you assign the same label to a
+subsubsection and a table, you might find that Table I has been cross
+referenced as Table IV-B3.
 
-    \subsection{Tau start}
+{\LaTeX} does not have precognitive abilities. If you put a
+\verb|\label| command before the command that updates the counter it's
+supposed to be using, the label will pick up the last counter to be
+cross referenced instead. In particular, a \verb|\label| command
+should not go before the caption of a figure or a table.
 
-        In this \LaTeX\ document, we've included the \textit{taustart} command, which provides a personalized lettrine for the beginning of a paragraph. This command is defined with two parameters: the dropcap font size and the content of the lettrine itself. It is utilized within the Introduction section to enhance the visual appeal and style of the article.
+Do not use \verb|\nonumber| inside the \verb|{array}| environment. It
+will not stop equation numbers inside \verb|{array}| (there won't be
+any anyway) and it might stop a wanted equation number in the
+surrounding equation.
 
-        This attention to detail adds a touch of elegance and professionalism to the document, ensuring a captivating reading experience.
+\subsection{Some Common Mistakes}\label{SCM}
+\begin{itemize}
+\item The word ``data'' is plural, not singular.
+\item The subscript for the permeability of vacuum $\mu_{0}$, and other common scientific constants, is zero with subscript formatting, not a lowercase letter ``o''.
+\item In American English, commas, semicolons, periods, question and exclamation marks are located within quotation marks only when a complete thought or name is cited, such as a title or full quotation. When quotation marks are used, instead of a bold or italic typeface, to highlight a word or phrase, punctuation should appear outside of the quotation marks. A parenthetical phrase or statement at the end of a sentence is punctuated outside of the closing parenthesis (like this). (A parenthetical sentence is punctuated within the parentheses.)
+\item A graph within a graph is an ``inset'', not an ``insert''. The word alternatively is preferred to the word ``alternately'' (unless you really mean something that alternates).
+\item Do not use the word ``essentially'' to mean ``approximately'' or ``effectively''.
+\item In your paper title, if the words ``that uses'' can accurately replace the word ``using'', capitalize the ``u''; if not, keep using lower-cased.
+\item Be aware of the different meanings of the homophones ``affect'' and ``effect'', ``complement'' and ``compliment'', ``discreet'' and ``discrete'', ``principal'' and ``principle''.
+\item Do not confuse ``imply'' and ``infer''.
+\item The prefix ``non'' is not a word; it should be joined to the word it modifies, usually without a hyphen.
+\item There is no period after the ``et'' in the Latin abbreviation ``et al.''.
+\item The abbreviation ``i.e.'' means ``that is'', and the abbreviation ``e.g.'' means ``for example''.
+\end{itemize}
+An excellent style manual for science writers is \cite{b7}.
 
-    \subsection{Stix2 font package}
+\subsection{Authors and Affiliations}
+\textbf{The class file is designed for, but not limited to, six authors.} A
+minimum of one author is required for all conference articles. Author names
+should be listed starting from left to right and then moving down to the
+next line. This is the author sequence that will be used in future citations
+and by indexing services. Names should not be listed in columns nor group by
+affiliation. Please keep your affiliations as succinct as possible (for
+example, do not differentiate among departments of the same organization).
 
-        This \LaTeX\ template uses the stix2 font package to maintain a clean, elegant and professional look. The stix2 font provides excellent legibility. By incorporating this font package, the document maintains a consistent and clean aesthetic throughout, especially when writing equations.
+\subsection{Identify the Headings}
+Headings, or heads, are organizational devices that guide the reader through
+your paper. There are two types: component heads and text heads.
 
-    \subsection{Table of contents}
+Component heads identify the different components of your paper and are not
+topically subordinate to each other. Examples include Acknowledgments and
+References and, for these, the correct style to use is ``Heading 5''. Use
+``figure caption'' for your Figure captions, and ``table head'' for your
+table title. Run-in heads, such as ``Abstract'', will require you to apply a
+style (in this case, italic) in addition to the style provided by the drop
+down menu to differentiate the head from the text.
 
-        The Tau-book class provides a table of contents that presents a hierarchical structure that organizes the contents of the document. It begins with the main sections, followed by subsections that expand on those topics and, in turn, the subsubsections provide additional details. Each level of the table of contents provides a preview of the content and its location in the document, making it easier to navigate and understand the document.
+Text heads organize the topics on a relational, hierarchical basis. For
+example, the paper title is the primary text head because all subsequent
+material relates and elaborates on this one topic. If there are two or more
+sub-topics, the next level head (uppercase Roman numerals) should be used
+and, conversely, if there are not at least two sub-topics, then no subheads
+should be introduced.
 
-    \subsection{Header and footer}
+\subsection{Figures and Tables}
+\paragraph{Positioning Figures and Tables} Place figures and tables at the top and
+bottom of columns. Avoid placing them in the middle of columns. Large
+figures and tables may span across both columns. Figure captions should be
+below the figures; table heads should appear above the tables. Insert
+figures and tables after they are cited in the text. Use the abbreviation
+``Fig.~\ref{fig}'', even at the beginning of a sentence.
 
-        Headers and footers are designed to provide relevant and contextual information about the paper. The header shows the title of the paper, while the footer contains details such as the institution, date, paper title and authors' surnames. This arrangement ensures that readers have access to key information at all times, making the document easier to understand and reference.
+\begin{table}[htbp]
+\caption{Table Type Styles}
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+\textbf{Table}&\multicolumn{3}{|c|}{\textbf{Table Column Head}} \\
+\cline{2-4}
+\textbf{Head} & \textbf{\textit{Table column subhead}}& \textbf{\textit{Subhead}}& \textbf{\textit{Subhead}} \\
+\hline
+copy& More table copy$^{\mathrm{a}}$& &  \\
+\hline
+\multicolumn{4}{l}{$^{\mathrm{a}}$Sample of a Table footnote.}
+\end{tabular}
+\label{tab1}
+\end{center}
+\end{table}
 
-    \subsection{Caption}
+\begin{figure}[htbp]
+\centerline{\includegraphics{fig1.png}}
+\caption{Example of a figure caption.}
+\label{fig}
+\end{figure}
 
-        \subsubsection{Figures}
+Figure Labels: Use 8 point Times New Roman for Figure labels. Use words
+rather than symbols or abbreviations when writing Figure axis labels to
+avoid confusing the reader. As an example, write the quantity
+``Magnetization'', or ``Magnetization, M'', not just ``M''. If including
+units in the label, present them within parentheses. Do not label axes only
+with units. In the example, write ``Magnetization (A/m)'' or ``Magnetization
+\{A[m(1)]\}'', not just ``A/m''. Do not label axes with a ratio of
+quantities and units. For example, write ``Temperature (K)'', not
+``Temperature/K''.
 
-            The provided \textit{captionsetup} command customizes the appearance of captions for figures in \LaTeX\ documents. It adjusts various aspects of the caption style such as format, label separator, font style and size, justification, and label font size. This setup ensures that figure captions are presented in a consistent and visually pleasing manner throughout the document. For example, in Fig. \ref{fig:enter-label}, the caption will appear with the specified formatting.
+\section*{Acknowledgment}
 
-            \begin{figure}[H]
-                \centering
-                \includegraphics[width=\columnwidth]{Figures/Lines.png}
-                \caption{Example of a figure}
-                \label{fig:enter-label}
-            \end{figure}
+The preferred spelling of the word ``acknowledgment'' in America is without
+an ``e'' after the ``g''. Avoid the stilted expression ``one of us (R. B.
+G.) thanks $\ldots$''. Instead, try ``R. B. G. thanks$\ldots$''. Put sponsor
+acknowledgments in the unnumbered footnote on the first page.
 
-        \subsubsection{Tables}
+\section*{References}
 
-            The \textit{captionsetup} command customizes the appearance of the captions in the document. The default table caption will display the caption below, however, there is an alternative to display the caption above the table. To do this, open the ``tau-book.cls'' class document and find the ``table caption style'' section then, change the position to above. For example, in Table \ref{tab:example}, the caption will appear with the specified formatting.
+Please number citations consecutively within brackets \cite{b1}. The
+sentence punctuation follows the bracket \cite{b2}. Refer simply to the reference
+number, as in \cite{b3}---do not use ``Ref. \cite{b3}'' or ``reference \cite{b3}'' except at
+the beginning of a sentence: ``Reference \cite{b3} was the first $\ldots$''
 
-            \begin{table}[H]
-                \centering
-                \begin{tabular}{cc}
-                    \textbf{Column 1} & \textbf{Column 2} \\
-                    \midrule
-                    Data 1 & Data 2 \\
-                    Data 3 & Data 4 \\
-                    \bottomrule
-                \end{tabular}
-                \caption{Small table example}
-                \label{tab:example}
-            \end{table}
+Number footnotes separately in superscripts. Place the actual footnote at
+the bottom of the column in which it was cited. Do not put footnotes in the
+abstract or reference list. Use letters for table footnotes.
 
-            In the "tau-book.cls", you could also set the caption above the table, to customize the document as you prefer; mentioned before.
+Unless there are six authors or more give all authors' names; do not use
+``et al.''. Papers that have not been published, even if they have been
+submitted for publication, should be cited as ``unpublished'' \cite{b4}. Papers
+that have been accepted for publication should be cited as ``in press'' \cite{b5}.
+Capitalize only the first word in a paper title, except for proper nouns and
+element symbols.
 
-    \subsection{Equation}
+For papers published in translation journals, please give the English
+citation first, followed by the original foreign-language citation \cite{b6}.
 
-        The ``amsmath'' package, short for ``American Mathematical Society mathematics'', is an essential tool in \LaTeX\ for typesetting mathematical equations with precision and clarity. It extends LaTeX's native math typesetting capabilities by providing a comprehensive suite of environments and commands for mathematical notation.
-
-        \begin{equation}
-            \int_{0}^{\pi} \frac{x^2}{\sqrt{1 + x^4}} \sin(x) \, dx
-        \end{equation}
-
-    \begin{info}
-        The ``amssymb'' package was not necessary to include, because the stix2 font incorporates mathematical symbols for writing quality equations. In case you choose another font, include the package to avoid compilation problems.
-    \end{info}
-
-    \section{Environment}
-
-        The "tau book" class includes custom environments designed to enhance the presentation of information within documents. Among these custom environments are ``info'' and ``note'', which are characterized by their minimalist and aesthetic design. However, users also have the option to include other custom environments such as ``info2'', ``link'' and ``warn'' for different purposes.
-
-        The ``info'' and ``note'' environments are particularly recommended for their clean and visually appealing appearance. The ``info'' environment provides a structured format for presenting informative content, while the ``note'' environment highlights important notes or remarks. Both environments feature a consistent design with a blue background and bolded titles for clarity.
-
-        For instance, the ``note'' environment is defined with specific styling attributes, including a blue background color, bolded title, and italicized font for the content. Additionally, the frame title is aligned to the left for improved readability. These attributes contribute to a cohesive and professional presentation of information within documents.  Users can take advantage of these customized environments to organize and convey information in an effective and visually appealing manner.
-
-        You may also costumize these environments located at the end of ``kappa.sty'' personalized package (line 241-295).
-
-        \begin{note}
-            These environments, such as the summary section, modify the title according to the selected language (english or spanish).
-        \end{note}
-
-\section{Coding}
-
-    The ``kappa'' package includes the "listings" package, which offers versatile and customizable features for typesetting code snippets in \LaTeX\ documents. Specifically for C, C++, \TeX\ and MATLAB codes. The ``listings'' package allows users to present code blocks with syntax highlighting, line numbering, and various formatting options to enhance readability and comprehension.
-
-    For C and C++ codes, the ``listings'' package recognizes the syntax of these programming languages and highlights keywords, comments, and string literals accordingly. This makes it easier for readers to distinguish between different elements of the code and understand its structure. Additionally, line numbering can be enabled to provide reference points within the code snippet.
-
-    \lstinputlisting[caption=Example of C code, label={lst:listing-c}, language=C]{example.c}
-
-    Similarly, for MATLAB codes, the ``listings'' package offers syntax highlighting and line numbering, to the MATLAB language syntax. This is particularly useful for including MATLAB scripts.
-
-    \lstinputlisting[caption=Example of matlab code, label={lst:listing-Mat}, language=Matlab]{example.m}
-
-\section{References}
-
-    In the ``tau-book'' class, the default formatting for references follows the IEEE style. This style is commonly used for technical documents, research papers, and scholarly articles in engineering and computer science fields. It provides a structured and standardized format for citing sources, making it easy to locate and reference relevant literature \cite{einstein}.
-
-    However, the ``tau-book'' class \cite{dirac} also offers the flexibility to customize the formatting of references through its internal settings. By modifying the settings in the ``tau-book.cls'' file, users can adjust the citation and bibliography styles to suit their specific preferences to the requirements of different publication guidelines.
-
-    At the end of the document, you will find an example of the default reference formatting in the ``tau-book'' class. Additionally, the ``tau.bib'' file provided can serve as an example for future citations. This BibTeX file contains sample bibliographic entries that demonstrate how to format references according to the IEEE style.
-
-\section{Updates}
-
-    \subsection{Tau-book class - Version 2}
-
-        In version 2 of ``tau-book.cls'' new improvements and general fixes have been introduced. One of these major improvements is the table of contents, where it has been designed to have a style compatible with the template providing a more professional appearance and adapted to the user's needs.
-
-        The subtitle formats have been modified, allowing for a more esthetically presentation of the document content. Finally, general corrections have been made to the document for the overall quality of the document.
-
-%------------------------------------------------------
-
-\printbibliography
-
-%------------------------------------------------------
+\begin{thebibliography}{00}
+\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
+\bibitem{b2} J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68--73.
+\bibitem{b3} I. S. Jacobs and C. P. Bean, ``Fine particles, thin films and exchange anisotropy,'' in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271--350.
+\bibitem{b4} K. Elissa, ``Title of paper if known,'' unpublished.
+\bibitem{b5} R. Nicole, ``Title of paper with only first word capitalized,'' J. Name Stand. Abbrev., in press.
+\bibitem{b6} Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, ``Electron spectroscopy studies on magneto-optical media and plastic substrate interface,'' IEEE Transl. J. Magn. Japan, vol. 2, pp. 740--741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
+\bibitem{b7} M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
+\end{thebibliography}
+\vspace{12pt}
+\color{red}
+IEEE conference templates contain guidance text for composing and formatting conference papers. Please ensure that all template text is removed from your conference paper prior to submission to the conference. Failure to remove the template text from your paper may result in your paper not being published.
 
 \end{document}
