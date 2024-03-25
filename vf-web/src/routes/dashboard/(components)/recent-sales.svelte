@@ -1,6 +1,6 @@
 <script lang="ts">
-	import AvatarImgs from "$lib/img/avatars/index.js";
-	import * as Avatar from "$lib/registry/new-york/ui/avatar/index.js";
+	import AvatarImgs from "$lib/images/avatars/index.js";
+	import * as Avatar from "$lib/components/ui/avatar/index.js";
 </script>
 
 <div class="space-y-8">

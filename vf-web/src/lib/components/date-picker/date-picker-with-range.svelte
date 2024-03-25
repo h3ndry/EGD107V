@@ -1,24 +1,24 @@
 <script lang="ts">
-	import CalendarIcon from "svelte-radix/Calendar.svelte";
-	import type { DateRange } from "bits-ui";
+	import CalendarIcon from 'svelte-radix/Calendar.svelte';
+	import type { DateRange } from 'bits-ui';
 	import {
 		CalendarDate,
 		DateFormatter,
 		getLocalTimeZone,
-		type DateValue,
-	} from "@internationalized/date";
-	import { cn } from "$lib/utils.js";
-	import { Button } from "$lib/registry/new-york/ui/button/index.js";
-	import { RangeCalendar } from "$lib/registry/new-york/ui/range-calendar/index.js";
-	import * as Popover from "$lib/registry/new-york/ui/popover/index.js";
+		type DateValue
+	} from '@internationalized/date';
+	import { cn } from '$lib/utils.js';
+	import { Button } from '$lib/components/ui/button/index.js';
+	import { RangeCalendar } from '$lib/components/ui/range-calendar/index.js';
+	import * as Popover from '$lib/components/ui/popover/index.js';
 
-	const df = new DateFormatter("en-US", {
-		dateStyle: "medium",
+	const df = new DateFormatter('en-US', {
+		dateStyle: 'medium'
 	});
 
 	let value: DateRange | undefined = {
 		start: new CalendarDate(2022, 1, 20),
-		end: new CalendarDate(2022, 1, 20).add({ days: 20 }),
+		end: new CalendarDate(2022, 1, 20).add({ days: 20 })
 	};
 
 	let startValue: DateValue | undefined = undefined;
@@ -30,8 +30,8 @@
 			<Button
 				variant="outline"
 				class={cn(
-					"w-[300px] justify-start text-left font-normal",
-					!value && "text-muted-foreground"
+					'w-[300px] justify-start text-left font-normal',
+					!value && 'text-muted-foreground'
 				)}
 				builders={[builder]}
 			>

@@ -1,48 +1,49 @@
 <script lang="ts">
-	import CaretSort from "svelte-radix/CaretSort.svelte";
-	import Check from "svelte-radix/Check.svelte";
-	import PlusCircled from "svelte-radix/PlusCircled.svelte";
+	import CaretSort from 'svelte-radix/CaretSort.svelte';
+	import Check from 'svelte-radix/Check.svelte';
+	import PlusCircled from 'svelte-radix/PlusCircled.svelte';
 
-	import { cn } from "$lib/utils.js";
-	import * as Avatar from "$lib/registry/new-york/ui/avatar/index.js";
-	import { Button } from "$lib/registry/new-york/ui/button/index.js";
-	import * as Command from "$lib/registry/new-york/ui/command/index.js";
-	import * as Dialog from "$lib/registry/new-york/ui/dialog/index.js";
-	import { Input } from "$lib/registry/new-york/ui/input/index.js";
-	import { Label } from "$lib/registry/new-york/ui/label/index.js";
-	import * as Popover from "$lib/registry/new-york/ui/popover/index.js";
-	import * as Select from "$lib/registry/new-york/ui/select/index.js";
-	import { tick } from "svelte";
+	import { cn } from '$lib/utils.js';
+	import * as Avatar from '$lib/components/ui/avatar/index.js';
+	import { Button } from '$lib/components/ui/button';
+	import * as Command from '$lib/components/ui/command/index.js';
+
+	import * as Dialog from '$lib/components/ui/dialog/index.js';
+	import { Input } from '$lib/components/ui/input/index.js';
+	import { Label } from '$lib/components/ui/label/index.js';
+	import * as Popover from '$lib/components/ui/popover/index.js';
+	import * as Select from '$lib/components/ui/select/index.js';
+	import { tick } from 'svelte';
 
 	let className: string | undefined | null = undefined;
 	export { className as class };
 
 	const groups = [
 		{
-			label: "Personal Account",
+			label: 'Personal Account',
 			teams: [
 				{
-					label: "Alicia Koch",
-					value: "personal",
-				},
-			],
+					label: 'Alicia Koch',
+					value: 'personal'
+				}
+			]
 		},
 		{
-			label: "Teams",
+			label: 'Teams',
 			teams: [
 				{
-					label: "Acme Inc.",
-					value: "acme-inc",
+					label: 'Acme Inc.',
+					value: 'acme-inc'
 				},
 				{
-					label: "Monsters Inc.",
-					value: "monsters",
-				},
-			],
-		},
+					label: 'Monsters Inc.',
+					value: 'monsters'
+				}
+			]
+		}
 	];
 
-	type Team = (typeof groups)[number]["teams"][number];
+	type Team = (typeof groups)[number]['teams'][number];
 
 	let open = false;
 	let showTeamDialog = false;
@@ -65,7 +66,7 @@
 				role="combobox"
 				aria-expanded={open}
 				aria-label="Select a team"
-				class={cn("w-[200px] justify-between", className)}
+				class={cn('w-[200px] justify-between', className)}
 			>
 				<Avatar.Root class="mr-2 h-5 w-5">
 					<Avatar.Image
@@ -106,8 +107,8 @@
 									{team.label}
 									<Check
 										class={cn(
-											"ml-auto h-4 w-4",
-											selectedTeam.value !== team.value && "text-transparent"
+											'ml-auto h-4 w-4',
+											selectedTeam.value !== team.value && 'text-transparent'
 										)}
 									/>
 								</Command.Item>
@@ -135,9 +136,7 @@
 	<Dialog.Content>
 		<Dialog.Header>
 			<Dialog.Title>Create team</Dialog.Title>
-			<Dialog.Description>
-				Add a new team to manage products and customers.
-			</Dialog.Description>
+			<Dialog.Description>Add a new team to manage products and customers.</Dialog.Description>
 		</Dialog.Header>
 		<div>
 			<div class="space-y-4 py-2 pb-4">
@@ -153,9 +152,7 @@
 						</Select.Trigger>
 						<Select.Content>
 							<Select.Item value="free">
-								<span class="font-medium">Free </span>-<span
-									class="text-muted-foreground"
-								>
+								<span class="font-medium">Free </span>-<span class="text-muted-foreground">
 									Trial for two weeks
 								</span>
 							</Select.Item>

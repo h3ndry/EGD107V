@@ -16,25 +16,20 @@
 		TeamSwitcher
 	} from './(components)/index.js';
 	import DatePickerWithRange from '$lib/components/date-picker/date-picker-with-range.svelte';
-	import DashboardLight from '$lib/img/examples/dashboard-light.png';
-	import DashboardDark from '$lib/img/examples/dashboard-dark.png';
+	import DashboardLight from '$lib/images/examples/dashboard-light.png';
+	import DashboardDark from '$lib/images/examples/dashboard-dark.png';
 </script>
 
-<div class="md:hidden">
-	<img src={DashboardLight} width={1280} height={866} alt="Dashboard" class="block dark:hidden" />
-	<img src={DashboardDark} width={1280} height={866} alt="Dashboard" class="hidden dark:block" />
-</div>
+<!-- <div class="md:hidden"> -->
+<!-- 	<img src={DashboardLight} width={1280} height={866} alt="Dashboard" class="block dark:hidden" /> -->
+<!-- 	<img src={DashboardDark} width={1280} height={866} alt="Dashboard" class="hidden dark:block" /> -->
+<!-- </div> -->
+
+
+
+
 <div class="hidden flex-col md:flex">
-	<div class="border-b">
-		<div class="flex h-16 items-center px-4">
-			<TeamSwitcher />
-			<DashboardMainNav class="mx-6" />
-			<div class="ml-auto flex items-center space-x-4">
-				<Search />
-				<UserNav />
-			</div>
-		</div>
-	</div>
+
 	<div class="flex-1 space-y-4 p-8 pt-6">
 		<div class="flex items-center justify-between space-y-2">
 			<h2 class="text-3xl font-bold tracking-tight">Dashboard</h2>
@@ -46,6 +41,7 @@
 				</Button>
 			</div>
 		</div>
+
 		<Tabs.Root value="overview" class="space-y-4">
 			<Tabs.List>
 				<Tabs.Trigger value="overview">Overview</Tabs.Trigger>
