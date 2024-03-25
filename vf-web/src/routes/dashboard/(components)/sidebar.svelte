@@ -49,7 +49,7 @@
 					</svg>
 					Browse
 				</Button>
-				<Button variant="ghost" class="w-full justify-start">
+				<Button href="/dashboard/sensors" variant="ghost" class="w-full justify-start">
 					<svg
 						xmlns="http://www.w3.org/2000/svg"
 						viewBox="0 0 24 24"
@@ -66,7 +66,7 @@
 						<path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5" />
 						<path d="M19.1 4.9C23 8.8 23 15.1 19.1 19" />
 					</svg>
-					Radio
+					Sensors
 				</Button>
 			</div>
 		</div>

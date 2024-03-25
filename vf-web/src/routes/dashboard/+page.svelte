@@ -28,7 +28,9 @@
 
 
 
-<div class="hidden flex-col md:flex">
+<!-- <div class="hidden flex-col md:flex bg-red-100"> -->
+
+<div class="col-span-3 lg:col-span-4 lg:border-l">
 
 	<div class="flex-1 space-y-4 p-8 pt-6">
 		<div class="flex items-center justify-between space-y-2">
