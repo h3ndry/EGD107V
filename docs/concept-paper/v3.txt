@@ -1,0 +1,2855 @@
+1
+00:00:00,179 --> 00:00:02,300
+
+good morning or good afternoon it is now
+
+2
+00:00:02,300 --> 00:00:02,310
+good morning or good afternoon it is now
+ 
+
+3
+00:00:02,310 --> 00:00:05,420
+good morning or good afternoon it is now
+sorry thank you for joining us today I
+
+4
+00:00:05,420 --> 00:00:05,430
+sorry thank you for joining us today I
+ 
+
+5
+00:00:05,430 --> 00:00:07,099
+sorry thank you for joining us today I
+just like to say thank you to Greg and
+
+6
+00:00:07,099 --> 00:00:07,109
+just like to say thank you to Greg and
+ 
+
+7
+00:00:07,109 --> 00:00:09,200
+just like to say thank you to Greg and
+John and future beef for inviting our
+
+8
+00:00:09,200 --> 00:00:09,210
+John and future beef for inviting our
+ 
+
+9
+00:00:09,210 --> 00:00:11,089
+John and future beef for inviting our
+distance to be here today very very
+
+10
+00:00:11,089 --> 00:00:11,099
+distance to be here today very very
+ 
+
+11
+00:00:11,099 --> 00:00:13,789
+distance to be here today very very
+grateful um today before I get into
+
+12
+00:00:13,789 --> 00:00:13,799
+grateful um today before I get into
+ 
+
+13
+00:00:13,799 --> 00:00:16,369
+grateful um today before I get into
+talking about e Shepherd I'll just give
+
+14
+00:00:16,369 --> 00:00:16,379
+talking about e Shepherd I'll just give
+ 
+
+15
+00:00:16,379 --> 00:00:22,099
+talking about e Shepherd I'll just give
+you a bit of background I'll give you a
+
+16
+00:00:22,099 --> 00:00:22,109
+you a bit of background I'll give you a
+ 
+
+17
+00:00:22,109 --> 00:00:24,439
+you a bit of background I'll give you a
+bit of background on Addison's the
+
+18
+00:00:24,439 --> 00:00:24,449
+bit of background on Addison's the
+ 
+
+19
+00:00:24,449 --> 00:00:26,990
+bit of background on Addison's the
+company was founded in 2014 with the
+
+20
+00:00:26,990 --> 00:00:27,000
+company was founded in 2014 with the
+ 
+
+21
+00:00:27,000 --> 00:00:29,150
+company was founded in 2014 with the
+purchase of the license technology from
+
+22
+00:00:29,150 --> 00:00:29,160
+purchase of the license technology from
+ 
+
+23
+00:00:29,160 --> 00:00:33,049
+purchase of the license technology from
+CSIRO our company is growing over the
+
+24
+00:00:33,049 --> 00:00:33,059
+CSIRO our company is growing over the
+ 
+
+25
+00:00:33,059 --> 00:00:34,910
+CSIRO our company is growing over the
+last six years and we now have two sites
+
+26
+00:00:34,910 --> 00:00:34,920
+last six years and we now have two sites
+ 
+
+27
+00:00:34,920 --> 00:00:37,760
+last six years and we now have two sites
+in Australia I know I saw our main
+
+28
+00:00:37,760 --> 00:00:37,770
+in Australia I know I saw our main
+ 
+
+29
+00:00:37,770 --> 00:00:39,500
+in Australia I know I saw our main
+offices in Melbourne in Camberwell in
+
+30
+00:00:39,500 --> 00:00:39,510
+offices in Melbourne in Camberwell in
+ 
+
+31
+00:00:39,510 --> 00:00:41,450
+offices in Melbourne in Camberwell in
+Melbourne where most of the staff was
+
+32
+00:00:41,450 --> 00:00:41,460
+Melbourne where most of the staff was
+ 
+
+33
+00:00:41,460 --> 00:00:43,160
+Melbourne where most of the staff was
+situated and then we have a research
+
+34
+00:00:43,160 --> 00:00:43,170
+situated and then we have a research
+ 
+
+35
+00:00:43,170 --> 00:00:45,740
+situated and then we have a research
+centre at Ipswich in Queensland this is
+
+36
+00:00:45,740 --> 00:00:45,750
+centre at Ipswich in Queensland this is
+ 
+
+37
+00:00:45,750 --> 00:00:47,479
+centre at Ipswich in Queensland this is
+where we we take our first bits of
+
+38
+00:00:47,479 --> 00:00:47,489
+where we we take our first bits of
+ 
+
+39
+00:00:47,489 --> 00:00:51,110
+where we we take our first bits of
+technology and try them out we have 40
+
+40
+00:00:51,110 --> 00:00:51,120
+technology and try them out we have 40
+ 
+
+41
+00:00:51,120 --> 00:00:53,990
+technology and try them out we have 40
+staff on the books with a mix of animal
+
+42
+00:00:53,990 --> 00:00:54,000
+staff on the books with a mix of animal
+ 
+
+43
+00:00:54,000 --> 00:00:56,450
+staff on the books with a mix of animal
+and data scientists along with software
+
+44
+00:00:56,450 --> 00:00:56,460
+and data scientists along with software
+ 
+
+45
+00:00:56,460 --> 00:00:58,549
+and data scientists along with software
+and systems but the guys as well they're
+
+46
+00:00:58,549 --> 00:00:58,559
+and systems but the guys as well they're
+ 
+
+47
+00:00:58,559 --> 00:01:00,950
+and systems but the guys as well they're
+the brains of our operation and then the
+
+48
+00:01:00,950 --> 00:01:00,960
+the brains of our operation and then the
+ 
+
+49
+00:01:00,960 --> 00:01:03,229
+the brains of our operation and then the
+rest the people that do the stock work
+
+50
+00:01:03,229 --> 00:01:03,239
+rest the people that do the stock work
+ 
+
+51
+00:01:03,239 --> 00:01:05,440
+rest the people that do the stock work
+set up in Ipswich
+
+52
+00:01:05,440 --> 00:01:05,450
+set up in Ipswich
+ 
+
+53
+00:01:05,450 --> 00:01:09,440
+set up in Ipswich
+Adamson's yeah today we've completed
+
+54
+00:01:09,440 --> 00:01:09,450
+Adamson's yeah today we've completed
+ 
+
+55
+00:01:09,450 --> 00:01:11,929
+Adamson's yeah today we've completed
+over 60 research trials with the biggest
+
+56
+00:01:11,929 --> 00:01:11,939
+over 60 research trials with the biggest
+ 
+
+57
+00:01:11,939 --> 00:01:13,940
+over 60 research trials with the biggest
+trials being conducted over the past 18
+
+58
+00:01:13,940 --> 00:01:13,950
+trials being conducted over the past 18
+ 
+
+59
+00:01:13,950 --> 00:01:16,510
+trials being conducted over the past 18
+months with the planned
+
+60
+00:01:16,510 --> 00:01:16,520
+months with the planned
+ 
+
+61
+00:01:16,520 --> 00:01:19,340
+months with the planned
+commercialization in early 2021 with our
+
+62
+00:01:19,340 --> 00:01:19,350
+commercialization in early 2021 with our
+ 
+
+63
+00:01:19,350 --> 00:01:20,840
+commercialization in early 2021 with our
+distribution partners and investors
+
+64
+00:01:20,840 --> 00:01:20,850
+distribution partners and investors
+ 
+
+65
+00:01:20,850 --> 00:01:25,429
+distribution partners and investors
+galaga moving on when we think of
+
+66
+00:01:25,429 --> 00:01:25,439
+galaga moving on when we think of
+ 
+
+67
+00:01:25,439 --> 00:01:27,679
+galaga moving on when we think of
+fencing within barbed wire and posts
+
+68
+00:01:27,679 --> 00:01:27,689
+fencing within barbed wire and posts
+ 
+
+69
+00:01:27,689 --> 00:01:30,740
+fencing within barbed wire and posts
+solid and unmovable well imagine a world
+
+70
+00:01:30,740 --> 00:01:30,750
+solid and unmovable well imagine a world
+ 
+
+71
+00:01:30,750 --> 00:01:32,240
+solid and unmovable well imagine a world
+where you can put fences wherever you
+
+72
+00:01:32,240 --> 00:01:32,250
+where you can put fences wherever you
+ 
+
+73
+00:01:32,250 --> 00:01:33,890
+where you can put fences wherever you
+want whenever you want from your
+
+74
+00:01:33,890 --> 00:01:33,900
+want whenever you want from your
+ 
+
+75
+00:01:33,900 --> 00:01:36,670
+want whenever you want from your
+computer with a cup of tea
+
+76
+00:01:36,670 --> 00:01:36,680
+computer with a cup of tea
+ 
+
+77
+00:01:36,680 --> 00:01:40,880
+computer with a cup of tea
+looking at the e Shepherd machine it's a
+
+78
+00:01:40,880 --> 00:01:40,890
+looking at the e Shepherd machine it's a
+ 
+
+79
+00:01:40,890 --> 00:01:42,620
+looking at the e Shepherd machine it's a
+new way of internal fencing your
+
+80
+00:01:42,620 --> 00:01:42,630
+new way of internal fencing your
+ 
+
+81
+00:01:42,630 --> 00:01:45,950
+new way of internal fencing your
+property it can be utilized across most
+
+82
+00:01:45,950 --> 00:01:45,960
+property it can be utilized across most
+ 
+
+83
+00:01:45,960 --> 00:01:48,080
+property it can be utilized across most
+all types of cattle except their balls
+
+84
+00:01:48,080 --> 00:01:48,090
+all types of cattle except their balls
+ 
+
+85
+00:01:48,090 --> 00:01:49,880
+all types of cattle except their balls
+we haven't quite got it quite robust
+
+86
+00:01:49,880 --> 00:01:49,890
+we haven't quite got it quite robust
+ 
+
+87
+00:01:49,890 --> 00:01:51,530
+we haven't quite got it quite robust
+enough yet to handle our Bulls but it's
+
+88
+00:01:51,530 --> 00:01:51,540
+enough yet to handle our Bulls but it's
+ 
+
+89
+00:01:51,540 --> 00:01:53,660
+enough yet to handle our Bulls but it's
+great on everything else to keep it
+
+90
+00:01:53,660 --> 00:01:53,670
+great on everything else to keep it
+ 
+
+91
+00:01:53,670 --> 00:01:55,609
+great on everything else to keep it
+simple it's electric fencing but cattle
+
+92
+00:01:55,609 --> 00:01:55,619
+simple it's electric fencing but cattle
+ 
+
+93
+00:01:55,619 --> 00:01:58,719
+simple it's electric fencing but cattle
+wear so it's time-saving and effective
+
+94
+00:01:58,719 --> 00:01:58,729
+wear so it's time-saving and effective
+ 
+
+95
+00:01:58,729 --> 00:02:01,069
+wear so it's time-saving and effective
+the ear Shepherd is a robust strong
+
+96
+00:02:01,069 --> 00:02:01,079
+the ear Shepherd is a robust strong
+ 
+
+97
+00:02:01,079 --> 00:02:02,690
+the ear Shepherd is a robust strong
+construction that is fully weather
+
+98
+00:02:02,690 --> 00:02:02,700
+construction that is fully weather
+ 
+
+99
+00:02:02,700 --> 00:02:05,450
+construction that is fully weather
+resistant it also comes with two solar
+
+100
+00:02:05,450 --> 00:02:05,460
+resistant it also comes with two solar
+ 
+
+101
+00:02:05,460 --> 00:02:08,210
+resistant it also comes with two solar
+panels making that making the batteries
+
+102
+00:02:08,210 --> 00:02:08,220
+panels making that making the batteries
+ 
+
+103
+00:02:08,220 --> 00:02:10,790
+panels making that making the batteries
+inside this system fully autonomous the
+
+104
+00:02:10,790 --> 00:02:10,800
+inside this system fully autonomous the
+ 
+
+105
+00:02:10,800 --> 00:02:12,140
+inside this system fully autonomous the
+other great features of the new Shepherd
+
+106
+00:02:12,140 --> 00:02:12,150
+other great features of the new Shepherd
+ 
+
+107
+00:02:12,150 --> 00:02:13,820
+other great features of the new Shepherd
+is GPS tracking alone
+
+108
+00:02:13,820 --> 00:02:13,830
+is GPS tracking alone
+ 
+
+109
+00:02:13,830 --> 00:02:15,470
+is GPS tracking alone
+you know where your cattle are all times
+
+110
+00:02:15,470 --> 00:02:15,480
+you know where your cattle are all times
+ 
+
+111
+00:02:15,480 --> 00:02:19,100
+you know where your cattle are all times
+of the day the stimulus strips the pole
+
+112
+00:02:19,100 --> 00:02:19,110
+of the day the stimulus strips the pole
+ 
+
+113
+00:02:19,110 --> 00:02:21,530
+of the day the stimulus strips the pole
+strips are found on the lower side the
+
+114
+00:02:21,530 --> 00:02:21,540
+strips are found on the lower side the
+ 
+
+115
+00:02:21,540 --> 00:02:25,130
+strips are found on the lower side the
+bottom side of the unit these strips if
+
+116
+00:02:25,130 --> 00:02:25,140
+bottom side of the unit these strips if
+ 
+
+117
+00:02:25,140 --> 00:02:26,780
+bottom side of the unit these strips if
+flush on the animals at the back of the
+
+118
+00:02:26,780 --> 00:02:26,790
+flush on the animals at the back of the
+ 
+
+119
+00:02:26,790 --> 00:02:29,270
+flush on the animals at the back of the
+animal's neck the ear Shepherd unit is
+
+120
+00:02:29,270 --> 00:02:29,280
+animal's neck the ear Shepherd unit is
+ 
+
+121
+00:02:29,280 --> 00:02:30,920
+animal's neck the ear Shepherd unit is
+then complemented with a counterweight
+
+122
+00:02:30,920 --> 00:02:30,930
+then complemented with a counterweight
+ 
+
+123
+00:02:30,930 --> 00:02:32,510
+then complemented with a counterweight
+that hangs on the bottom end of the
+
+124
+00:02:32,510 --> 00:02:32,520
+that hangs on the bottom end of the
+ 
+
+125
+00:02:32,520 --> 00:02:34,730
+that hangs on the bottom end of the
+collar this allows the call if the
+
+126
+00:02:34,730 --> 00:02:34,740
+collar this allows the call if the
+ 
+
+127
+00:02:34,740 --> 00:02:37,160
+collar this allows the call if the
+collar come gets out of place this will
+
+128
+00:02:37,160 --> 00:02:37,170
+collar come gets out of place this will
+ 
+
+129
+00:02:37,170 --> 00:02:38,720
+collar come gets out of place this will
+write it and put it back into where it
+
+130
+00:02:38,720 --> 00:02:38,730
+write it and put it back into where it
+ 
+
+131
+00:02:38,730 --> 00:02:42,290
+write it and put it back into where it
+needs to be now normal electric fencing
+
+132
+00:02:42,290 --> 00:02:42,300
+needs to be now normal electric fencing
+ 
+
+133
+00:02:42,300 --> 00:02:44,090
+needs to be now normal electric fencing
+is based on visual cattle can see a
+
+134
+00:02:44,090 --> 00:02:44,100
+is based on visual cattle can see a
+ 
+
+135
+00:02:44,100 --> 00:02:46,640
+is based on visual cattle can see a
+fence they know it's there they learn
+
+136
+00:02:46,640 --> 00:02:46,650
+fence they know it's there they learn
+ 
+
+137
+00:02:46,650 --> 00:02:48,200
+fence they know it's there they learn
+that if they touch it it will bite them
+
+138
+00:02:48,200 --> 00:02:48,210
+that if they touch it it will bite them
+ 
+
+139
+00:02:48,210 --> 00:02:51,200
+that if they touch it it will bite them
+in and in theory once that happens they
+
+140
+00:02:51,200 --> 00:02:51,210
+in and in theory once that happens they
+ 
+
+141
+00:02:51,210 --> 00:02:53,990
+in and in theory once that happens they
+won't challenge it working with a
+
+142
+00:02:53,990 --> 00:02:54,000
+won't challenge it working with a
+ 
+
+143
+00:02:54,000 --> 00:02:55,910
+won't challenge it working with a
+shepherd we do our work off audio
+
+144
+00:02:55,910 --> 00:02:55,920
+shepherd we do our work off audio
+ 
+
+145
+00:02:55,920 --> 00:02:58,490
+shepherd we do our work off audio
+there's an audio tone set up inside of
+
+146
+00:02:58,490 --> 00:02:58,500
+there's an audio tone set up inside of
+ 
+
+147
+00:02:58,500 --> 00:03:05,210
+there's an audio tone set up inside of
+the ear Shepherd unit sorry yeah so the
+
+148
+00:03:05,210 --> 00:03:05,220
+the ear Shepherd unit sorry yeah so the
+ 
+
+149
+00:03:05,220 --> 00:03:07,490
+the ear Shepherd unit sorry yeah so the
+audio tone has the animal approaches the
+
+150
+00:03:07,490 --> 00:03:07,500
+audio tone has the animal approaches the
+ 
+
+151
+00:03:07,500 --> 00:03:10,610
+audio tone has the animal approaches the
+fence line the virtual fence line as I
+
+152
+00:03:10,610 --> 00:03:10,620
+fence line the virtual fence line as I
+ 
+
+153
+00:03:10,620 --> 00:03:12,830
+fence line the virtual fence line as I
+get too close the audio tone will sound
+
+154
+00:03:12,830 --> 00:03:12,840
+get too close the audio tone will sound
+ 
+
+155
+00:03:12,840 --> 00:03:15,560
+get too close the audio tone will sound
+this will then alert the animal that
+
+156
+00:03:15,560 --> 00:03:15,570
+this will then alert the animal that
+ 
+
+157
+00:03:15,570 --> 00:03:17,060
+this will then alert the animal that
+he's becoming close to the fence line
+
+158
+00:03:17,060 --> 00:03:17,070
+he's becoming close to the fence line
+ 
+
+159
+00:03:17,070 --> 00:03:19,940
+he's becoming close to the fence line
+once this happens if he keeps proceeding
+
+160
+00:03:19,940 --> 00:03:19,950
+once this happens if he keeps proceeding
+ 
+
+161
+00:03:19,950 --> 00:03:21,770
+once this happens if he keeps proceeding
+on he will then be pulsed through the
+
+162
+00:03:21,770 --> 00:03:21,780
+on he will then be pulsed through the
+ 
+
+163
+00:03:21,780 --> 00:03:23,300
+on he will then be pulsed through the
+entropy lake program that back outside
+
+164
+00:03:23,300 --> 00:03:23,310
+entropy lake program that back outside
+ 
+
+165
+00:03:23,310 --> 00:03:26,540
+entropy lake program that back outside
+of the unit of course we don't just
+
+166
+00:03:26,540 --> 00:03:26,550
+of the unit of course we don't just
+ 
+
+167
+00:03:26,550 --> 00:03:28,280
+of the unit of course we don't just
+throw them into a big panic and expect
+
+168
+00:03:28,280 --> 00:03:28,290
+throw them into a big panic and expect
+ 
+
+169
+00:03:28,290 --> 00:03:29,960
+throw them into a big panic and expect
+them to understand that this is how it
+
+170
+00:03:29,960 --> 00:03:29,970
+them to understand that this is how it
+ 
+
+171
+00:03:29,970 --> 00:03:32,330
+them to understand that this is how it
+works any fresh cattle they have collars
+
+172
+00:03:32,330 --> 00:03:32,340
+works any fresh cattle they have collars
+ 
+
+173
+00:03:32,340 --> 00:03:33,860
+works any fresh cattle they have collars
+put on we spend five to seven days
+
+174
+00:03:33,860 --> 00:03:33,870
+put on we spend five to seven days
+ 
+
+175
+00:03:33,870 --> 00:03:36,410
+put on we spend five to seven days
+training them in a smaller pipe to make
+
+176
+00:03:36,410 --> 00:03:36,420
+training them in a smaller pipe to make
+ 
+
+177
+00:03:36,420 --> 00:03:38,660
+training them in a smaller pipe to make
+sure that they understand same as with
+
+178
+00:03:38,660 --> 00:03:38,670
+sure that they understand same as with
+ 
+
+179
+00:03:38,670 --> 00:03:40,190
+sure that they understand same as with
+an electric fence they've got to
+
+180
+00:03:40,190 --> 00:03:40,200
+an electric fence they've got to
+ 
+
+181
+00:03:40,200 --> 00:03:42,140
+an electric fence they've got to
+understand how it works and what it does
+
+182
+00:03:42,140 --> 00:03:42,150
+understand how it works and what it does
+ 
+
+183
+00:03:42,150 --> 00:03:45,110
+understand how it works and what it does
+so five to seven days usually it takes
+
+184
+00:03:45,110 --> 00:03:45,120
+so five to seven days usually it takes
+ 
+
+185
+00:03:45,120 --> 00:03:47,030
+so five to seven days usually it takes
+about five to seven interactions they
+
+186
+00:03:47,030 --> 00:03:47,040
+about five to seven interactions they
+ 
+
+187
+00:03:47,040 --> 00:03:48,410
+about five to seven interactions they
+will probably only challenge a fence
+
+188
+00:03:48,410 --> 00:03:48,420
+will probably only challenge a fence
+ 
+
+189
+00:03:48,420 --> 00:03:51,320
+will probably only challenge a fence
+five to seven times and though they
+
+190
+00:03:51,320 --> 00:03:51,330
+five to seven times and though they
+ 
+
+191
+00:03:51,330 --> 00:03:53,060
+five to seven times and though they
+quickly learn that once they hear that
+
+192
+00:03:53,060 --> 00:03:53,070
+quickly learn that once they hear that
+ 
+
+193
+00:03:53,070 --> 00:03:56,150
+quickly learn that once they hear that
+audio cue they turned that we have to
+
+194
+00:03:56,150 --> 00:03:56,160
+audio cue they turned that we have to
+ 
+
+195
+00:03:56,160 --> 00:03:57,470
+audio cue they turned that we have to
+refresh the cattle it you've switch
+
+196
+00:03:57,470 --> 00:03:57,480
+refresh the cattle it you've switch
+ 
+
+197
+00:03:57,480 --> 00:04:00,530
+refresh the cattle it you've switch
+quite often due to the fact that a blob
+
+198
+00:04:00,530 --> 00:04:00,540
+quite often due to the fact that a blob
+ 
+
+199
+00:04:00,540 --> 00:04:02,360
+quite often due to the fact that a blob
+of cattle will walk towards a fence one
+
+200
+00:04:02,360 --> 00:04:02,370
+of cattle will walk towards a fence one
+ 
+
+201
+00:04:02,370 --> 00:04:04,310
+of cattle will walk towards a fence one
+audio tone will go off and the entire
+
+202
+00:04:04,310 --> 00:04:04,320
+audio tone will go off and the entire
+ 
+
+203
+00:04:04,320 --> 00:04:08,420
+audio tone will go off and the entire
+third will turn around and walk away the
+
+204
+00:04:08,420 --> 00:04:08,430
+third will turn around and walk away the
+ 
+
+205
+00:04:08,430 --> 00:04:10,460
+third will turn around and walk away the
+way that our Shepherd works on our
+
+206
+00:04:10,460 --> 00:04:10,470
+way that our Shepherd works on our
+ 
+
+207
+00:04:10,470 --> 00:04:13,400
+way that our Shepherd works on our
+property our GPS positioning comes off
+
+208
+00:04:13,400 --> 00:04:13,410
+property our GPS positioning comes off
+ 
+
+209
+00:04:13,410 --> 00:04:15,640
+property our GPS positioning comes off
+satellite it comes down into the collar
+
+210
+00:04:15,640 --> 00:04:15,650
+satellite it comes down into the collar
+ 
+
+211
+00:04:15,650 --> 00:04:17,960
+satellite it comes down into the collar
+with output with the prop with the
+
+212
+00:04:17,960 --> 00:04:17,970
+with output with the prop with the
+ 
+
+213
+00:04:17,970 --> 00:04:20,180
+with output with the prop with the
+purchase of the e Shepherd unit you
+
+214
+00:04:20,180 --> 00:04:20,190
+purchase of the e Shepherd unit you
+ 
+
+215
+00:04:20,190 --> 00:04:22,370
+purchase of the e Shepherd unit you
+install the base station on the property
+
+216
+00:04:22,370 --> 00:04:22,380
+install the base station on the property
+ 
+
+217
+00:04:22,380 --> 00:04:26,390
+install the base station on the property
+the this the GPS
+
+218
+00:04:26,390 --> 00:04:26,400
+the this the GPS
+ 
+
+219
+00:04:26,400 --> 00:04:27,800
+the this the GPS
+positioning comes down into the collar
+
+220
+00:04:27,800 --> 00:04:27,810
+positioning comes down into the collar
+ 
+
+221
+00:04:27,810 --> 00:04:29,840
+positioning comes down into the collar
+it talks to the base station the base
+
+222
+00:04:29,840 --> 00:04:29,850
+it talks to the base station the base
+ 
+
+223
+00:04:29,850 --> 00:04:31,159
+it talks to the base station the base
+station sends out information to the
+
+224
+00:04:31,159 --> 00:04:31,169
+station sends out information to the
+ 
+
+225
+00:04:31,169 --> 00:04:34,280
+station sends out information to the
+cloud through to your laptop and again
+
+226
+00:04:34,280 --> 00:04:34,290
+cloud through to your laptop and again
+ 
+
+227
+00:04:34,290 --> 00:04:36,439
+cloud through to your laptop and again
+vice versa when you set your fences and
+
+228
+00:04:36,439 --> 00:04:36,449
+vice versa when you set your fences and
+ 
+
+229
+00:04:36,449 --> 00:04:38,540
+vice versa when you set your fences and
+your virtual fencing it starts in your
+
+230
+00:04:38,540 --> 00:04:38,550
+your virtual fencing it starts in your
+ 
+
+231
+00:04:38,550 --> 00:04:40,400
+your virtual fencing it starts in your
+in your computer sent into the cloud
+
+232
+00:04:40,400 --> 00:04:40,410
+in your computer sent into the cloud
+ 
+
+233
+00:04:40,410 --> 00:04:42,230
+in your computer sent into the cloud
+through to the base station into the
+
+234
+00:04:42,230 --> 00:04:42,240
+through to the base station into the
+ 
+
+235
+00:04:42,240 --> 00:04:44,689
+through to the base station into the
+collar so that the best reports back
+
+236
+00:04:44,689 --> 00:04:44,699
+collar so that the best reports back
+ 
+
+237
+00:04:44,699 --> 00:04:46,790
+collar so that the best reports back
+into that base to base station every 10
+
+238
+00:04:46,790 --> 00:04:46,800
+into that base to base station every 10
+ 
+
+239
+00:04:46,800 --> 00:04:49,159
+into that base to base station every 10
+to 15 minutes making sure that if
+
+240
+00:04:49,159 --> 00:04:49,169
+to 15 minutes making sure that if
+ 
+
+241
+00:04:49,169 --> 00:04:51,320
+to 15 minutes making sure that if
+there's any new updates that that animal
+
+242
+00:04:51,320 --> 00:04:51,330
+there's any new updates that that animal
+ 
+
+243
+00:04:51,330 --> 00:04:57,140
+there's any new updates that that animal
+will receive them we also run off three
+
+244
+00:04:57,140 --> 00:04:57,150
+will receive them we also run off three
+ 
+
+245
+00:04:57,150 --> 00:04:58,430
+will receive them we also run off three
+and fourth the base station runs off
+
+246
+00:04:58,430 --> 00:04:58,440
+and fourth the base station runs off
+ 
+
+247
+00:04:58,440 --> 00:05:00,920
+and fourth the base station runs off
+three and four D coverage so at this
+
+248
+00:05:00,920 --> 00:05:00,930
+three and four D coverage so at this
+ 
+
+249
+00:05:00,930 --> 00:05:02,840
+three and four D coverage so at this
+time when we're working off three and
+
+250
+00:05:02,840 --> 00:05:02,850
+time when we're working off three and
+ 
+
+251
+00:05:02,850 --> 00:05:04,670
+time when we're working off three and
+four D coverage and hoping to go to
+
+252
+00:05:04,670 --> 00:05:04,680
+four D coverage and hoping to go to
+ 
+
+253
+00:05:04,680 --> 00:05:08,540
+four D coverage and hoping to go to
+satellite in the future coming up in the
+
+254
+00:05:08,540 --> 00:05:08,550
+satellite in the future coming up in the
+ 
+
+255
+00:05:08,550 --> 00:05:09,500
+satellite in the future coming up in the
+next one
+
+256
+00:05:09,500 --> 00:05:09,510
+next one
+ 
+
+257
+00:05:09,510 --> 00:05:11,120
+next one
+Greg said that they compute they've
+
+258
+00:05:11,120 --> 00:05:11,130
+Greg said that they compute they've
+ 
+
+259
+00:05:11,130 --> 00:05:12,770
+Greg said that they compute they've
+system might be a little bit scratchy
+
+260
+00:05:12,770 --> 00:05:12,780
+system might be a little bit scratchy
+ 
+
+261
+00:05:12,780 --> 00:05:14,210
+system might be a little bit scratchy
+but I've got a couple of videos I'd like
+
+262
+00:05:14,210 --> 00:05:14,220
+but I've got a couple of videos I'd like
+ 
+
+263
+00:05:14,220 --> 00:05:16,430
+but I've got a couple of videos I'd like
+to show you this is a really basic
+
+264
+00:05:16,430 --> 00:05:16,440
+to show you this is a really basic
+ 
+
+265
+00:05:16,440 --> 00:05:18,980
+to show you this is a really basic
+at eutz which replace the fence in front
+
+266
+00:05:18,980 --> 00:05:18,990
+at eutz which replace the fence in front
+ 
+
+267
+00:05:18,990 --> 00:05:21,830
+at eutz which replace the fence in front
+of the cattle keeping them at one end of
+
+268
+00:05:21,830 --> 00:05:21,840
+of the cattle keeping them at one end of
+ 
+
+269
+00:05:21,840 --> 00:05:23,960
+of the cattle keeping them at one end of
+the pasture we then decide that they've
+
+270
+00:05:23,960 --> 00:05:23,970
+the pasture we then decide that they've
+ 
+
+271
+00:05:23,970 --> 00:05:25,820
+the pasture we then decide that they've
+worked that pasture well enough remove
+
+272
+00:05:25,820 --> 00:05:25,830
+worked that pasture well enough remove
+ 
+
+273
+00:05:25,830 --> 00:05:27,800
+worked that pasture well enough remove
+that fence allowing the cattle to
+
+274
+00:05:27,800 --> 00:05:27,810
+that fence allowing the cattle to
+ 
+
+275
+00:05:27,810 --> 00:05:29,779
+that fence allowing the cattle to
+naturally move forward into the next
+
+276
+00:05:29,779 --> 00:05:29,789
+naturally move forward into the next
+ 
+
+277
+00:05:29,789 --> 00:05:31,700
+naturally move forward into the next
+section of the paddock we don't want
+
+278
+00:05:31,700 --> 00:05:31,710
+section of the paddock we don't want
+ 
+
+279
+00:05:31,710 --> 00:05:33,050
+section of the paddock we don't want
+them going all the way to the other end
+
+280
+00:05:33,050 --> 00:05:33,060
+them going all the way to the other end
+ 
+
+281
+00:05:33,060 --> 00:05:35,000
+them going all the way to the other end
+so we put one in front of them and we
+
+282
+00:05:35,000 --> 00:05:35,010
+so we put one in front of them and we
+ 
+
+283
+00:05:35,010 --> 00:05:36,710
+so we put one in front of them and we
+also put one behind them to protect the
+
+284
+00:05:36,710 --> 00:05:36,720
+also put one behind them to protect the
+ 
+
+285
+00:05:36,720 --> 00:05:39,680
+also put one behind them to protect the
+Posche to behind them holding the cattle
+
+286
+00:05:39,680 --> 00:05:39,690
+Posche to behind them holding the cattle
+ 
+
+287
+00:05:39,690 --> 00:05:40,879
+Posche to behind them holding the cattle
+in the center of the paddock to work
+
+288
+00:05:40,879 --> 00:05:40,889
+in the center of the paddock to work
+ 
+
+289
+00:05:40,889 --> 00:05:44,409
+in the center of the paddock to work
+that pasture and utilize the goods in it
+
+290
+00:05:44,409 --> 00:05:44,419
+that pasture and utilize the goods in it
+ 
+
+291
+00:05:44,419 --> 00:05:48,440
+that pasture and utilize the goods in it
+I'm moving into the next well I did this
+
+292
+00:05:48,440 --> 00:05:48,450
+I'm moving into the next well I did this
+ 
+
+293
+00:05:48,450 --> 00:05:50,150
+I'm moving into the next well I did this
+here I think map of what we actually
+
+294
+00:05:50,150 --> 00:05:50,160
+here I think map of what we actually
+ 
+
+295
+00:05:50,160 --> 00:05:53,000
+here I think map of what we actually
+just did the heat maps to show you the
+
+296
+00:05:53,000 --> 00:05:53,010
+just did the heat maps to show you the
+ 
+
+297
+00:05:53,010 --> 00:05:55,189
+just did the heat maps to show you the
+red the red of those heat maps show you
+
+298
+00:05:55,189 --> 00:05:55,199
+red the red of those heat maps show you
+ 
+
+299
+00:05:55,199 --> 00:05:56,779
+red the red of those heat maps show you
+where the cattle of working the paddock
+
+300
+00:05:56,779 --> 00:05:56,789
+where the cattle of working the paddock
+ 
+
+301
+00:05:56,789 --> 00:06:00,050
+where the cattle of working the paddock
+so in a was the setup of the paddock via
+
+302
+00:06:00,050 --> 00:06:00,060
+so in a was the setup of the paddock via
+ 
+
+303
+00:06:00,060 --> 00:06:01,730
+so in a was the setup of the paddock via
+the cattle roaming free through that
+
+304
+00:06:01,730 --> 00:06:01,740
+the cattle roaming free through that
+ 
+
+305
+00:06:01,740 --> 00:06:04,159
+the cattle roaming free through that
+paddock see is us holding them heavily
+
+306
+00:06:04,159 --> 00:06:04,169
+paddock see is us holding them heavily
+ 
+
+307
+00:06:04,169 --> 00:06:07,420
+paddock see is us holding them heavily
+in one in moving up to the D picture
+
+308
+00:06:07,420 --> 00:06:07,430
+in one in moving up to the D picture
+ 
+
+309
+00:06:07,430 --> 00:06:09,920
+in one in moving up to the D picture
+that is us allowing them another 70
+
+310
+00:06:09,920 --> 00:06:09,930
+that is us allowing them another 70
+ 
+
+311
+00:06:09,930 --> 00:06:12,439
+that is us allowing them another 70
+metres of panic that E is moving them
+
+312
+00:06:12,439 --> 00:06:12,449
+metres of panic that E is moving them
+ 
+
+313
+00:06:12,449 --> 00:06:14,120
+metres of panic that E is moving them
+into another 70 meters of paddock where
+
+314
+00:06:14,120 --> 00:06:14,130
+into another 70 meters of paddock where
+ 
+
+315
+00:06:14,130 --> 00:06:15,800
+into another 70 meters of paddock where
+obviously the posh is a lot fresher as
+
+316
+00:06:15,800 --> 00:06:15,810
+obviously the posh is a lot fresher as
+ 
+
+317
+00:06:15,810 --> 00:06:17,180
+obviously the posh is a lot fresher as
+the cattle of working at quite heavily
+
+318
+00:06:17,180 --> 00:06:17,190
+the cattle of working at quite heavily
+ 
+
+319
+00:06:17,190 --> 00:06:19,400
+the cattle of working at quite heavily
+and the F is just showing on that heat
+
+320
+00:06:19,400 --> 00:06:19,410
+and the F is just showing on that heat
+ 
+
+321
+00:06:19,410 --> 00:06:21,050
+and the F is just showing on that heat
+map that we can turn that fence any
+
+322
+00:06:21,050 --> 00:06:21,060
+map that we can turn that fence any
+ 
+
+323
+00:06:21,060 --> 00:06:23,000
+map that we can turn that fence any
+direction and the cattle will be killed
+
+324
+00:06:23,000 --> 00:06:23,010
+direction and the cattle will be killed
+ 
+
+325
+00:06:23,010 --> 00:06:27,200
+direction and the cattle will be killed
+by the fence the next picture is a is a
+
+326
+00:06:27,200 --> 00:06:27,210
+by the fence the next picture is a is a
+ 
+
+327
+00:06:27,210 --> 00:06:28,790
+by the fence the next picture is a is a
+screen shot this is what you'd see if
+
+328
+00:06:28,790 --> 00:06:28,800
+screen shot this is what you'd see if
+ 
+
+329
+00:06:28,800 --> 00:06:30,490
+screen shot this is what you'd see if
+you were looking at our user interface
+
+330
+00:06:30,490 --> 00:06:30,500
+you were looking at our user interface
+ 
+
+331
+00:06:30,500 --> 00:06:33,170
+you were looking at our user interface
+this slide shows the tracks of where the
+
+332
+00:06:33,170 --> 00:06:33,180
+this slide shows the tracks of where the
+ 
+
+333
+00:06:33,180 --> 00:06:35,029
+this slide shows the tracks of where the
+animal has traveled over the paddock in
+
+334
+00:06:35,029 --> 00:06:35,039
+animal has traveled over the paddock in
+ 
+
+335
+00:06:35,039 --> 00:06:38,240
+animal has traveled over the paddock in
+the past 24 hours the yellow arrows are
+
+336
+00:06:38,240 --> 00:06:38,250
+the past 24 hours the yellow arrows are
+ 
+
+337
+00:06:38,250 --> 00:06:39,679
+the past 24 hours the yellow arrows are
+the audio cues
+
+338
+00:06:39,679 --> 00:06:39,689
+the audio cues
+ 
+
+339
+00:06:39,689 --> 00:06:40,969
+the audio cues
+so that animals perceive quite a few
+
+340
+00:06:40,969 --> 00:06:40,979
+so that animals perceive quite a few
+ 
+
+341
+00:06:40,979 --> 00:06:42,979
+so that animals perceive quite a few
+audio hues throughout the 24 hours and
+
+342
+00:06:42,979 --> 00:06:42,989
+audio hues throughout the 24 hours and
+ 
+
+343
+00:06:42,989 --> 00:06:47,539
+audio hues throughout the 24 hours and
+the pink arrows are pulses so this beast
+
+344
+00:06:47,539 --> 00:06:47,549
+the pink arrows are pulses so this beast
+ 
+
+345
+00:06:47,549 --> 00:06:49,609
+the pink arrows are pulses so this beast
+isn't saved in that 24 hour period two
+
+346
+00:06:49,609 --> 00:06:49,619
+isn't saved in that 24 hour period two
+ 
+
+347
+00:06:49,619 --> 00:06:53,659
+isn't saved in that 24 hour period two
+pulses and a bunch of audio cues the the
+
+348
+00:06:53,659 --> 00:06:53,669
+pulses and a bunch of audio cues the the
+ 
+
+349
+00:06:53,669 --> 00:06:55,669
+pulses and a bunch of audio cues the the
+white line at the front is the virtual
+
+350
+00:06:55,669 --> 00:06:55,679
+white line at the front is the virtual
+ 
+
+351
+00:06:55,679 --> 00:06:58,969
+white line at the front is the virtual
+fence wan this is just a quick snapshot
+
+352
+00:06:58,969 --> 00:06:58,979
+fence wan this is just a quick snapshot
+ 
+
+353
+00:06:58,979 --> 00:07:00,789
+fence wan this is just a quick snapshot
+of what you'd see on an e Shepard page
+
+354
+00:07:00,789 --> 00:07:00,799
+of what you'd see on an e Shepard page
+ 
+
+355
+00:07:00,799 --> 00:07:03,199
+of what you'd see on an e Shepard page
+the right-hand side is the panel that
+
+356
+00:07:03,199 --> 00:07:03,209
+the right-hand side is the panel that
+ 
+
+357
+00:07:03,209 --> 00:07:05,689
+the right-hand side is the panel that
+allows you to control everything we said
+
+358
+00:07:05,689 --> 00:07:05,699
+allows you to control everything we said
+ 
+
+359
+00:07:05,699 --> 00:07:07,039
+allows you to control everything we said
+all our fences off of this user
+
+360
+00:07:07,039 --> 00:07:07,049
+all our fences off of this user
+ 
+
+361
+00:07:07,049 --> 00:07:09,469
+all our fences off of this user
+interface it's pretty pretty spectacular
+
+362
+00:07:09,469 --> 00:07:09,479
+interface it's pretty pretty spectacular
+ 
+
+363
+00:07:09,479 --> 00:07:13,249
+interface it's pretty pretty spectacular
+and great to work with this here is
+
+364
+00:07:13,249 --> 00:07:13,259
+and great to work with this here is
+ 
+
+365
+00:07:13,259 --> 00:07:15,319
+and great to work with this here is
+actually showing you a snapshot of our
+
+366
+00:07:15,319 --> 00:07:15,329
+actually showing you a snapshot of our
+ 
+
+367
+00:07:15,329 --> 00:07:19,249
+actually showing you a snapshot of our
+latest trials in in Glendon just outside
+
+368
+00:07:19,249 --> 00:07:19,259
+latest trials in in Glendon just outside
+ 
+
+369
+00:07:19,259 --> 00:07:22,189
+latest trials in in Glendon just outside
+McCoy we had 250 head collared the green
+
+370
+00:07:22,189 --> 00:07:22,199
+McCoy we had 250 head collared the green
+ 
+
+371
+00:07:22,199 --> 00:07:23,989
+McCoy we had 250 head collared the green
+dots are our GPS positioning of our
+
+372
+00:07:23,989 --> 00:07:23,999
+dots are our GPS positioning of our
+ 
+
+373
+00:07:23,999 --> 00:07:28,399
+dots are our GPS positioning of our
+cattle the the green dot with the pink
+
+374
+00:07:28,399 --> 00:07:28,409
+cattle the the green dot with the pink
+ 
+
+375
+00:07:28,409 --> 00:07:29,869
+cattle the the green dot with the pink
+around it is the animal that we're
+
+376
+00:07:29,869 --> 00:07:29,879
+around it is the animal that we're
+ 
+
+377
+00:07:29,879 --> 00:07:32,839
+around it is the animal that we're
+tracking so he is a gentleman here's the
+
+378
+00:07:32,839 --> 00:07:32,849
+tracking so he is a gentleman here's the
+ 
+
+379
+00:07:32,849 --> 00:07:34,100
+tracking so he is a gentleman here's the
+steer that we tracked around that
+
+380
+00:07:34,100 --> 00:07:34,110
+steer that we tracked around that
+ 
+
+381
+00:07:34,110 --> 00:07:35,749
+steer that we tracked around that
+paddock to show basically whole paddock
+
+382
+00:07:35,749 --> 00:07:35,759
+paddock to show basically whole paddock
+ 
+
+383
+00:07:35,759 --> 00:07:38,689
+paddock to show basically whole paddock
+utilization the fact that they can work
+
+384
+00:07:38,689 --> 00:07:38,699
+utilization the fact that they can work
+ 
+
+385
+00:07:38,699 --> 00:07:40,579
+utilization the fact that they can work
+the entire center of that virtual
+
+386
+00:07:40,579 --> 00:07:40,589
+the entire center of that virtual
+ 
+
+387
+00:07:40,589 --> 00:07:43,249
+the entire center of that virtual
+paddock and he received quite a few
+
+388
+00:07:43,249 --> 00:07:43,259
+paddock and he received quite a few
+ 
+
+389
+00:07:43,259 --> 00:07:45,589
+paddock and he received quite a few
+audio pulses there he's worked the edges
+
+390
+00:07:45,589 --> 00:07:45,599
+audio pulses there he's worked the edges
+ 
+
+391
+00:07:45,599 --> 00:07:47,989
+audio pulses there he's worked the edges
+of that paddock quite hard the solid
+
+392
+00:07:47,989 --> 00:07:47,999
+of that paddock quite hard the solid
+ 
+
+393
+00:07:47,999 --> 00:07:51,249
+of that paddock quite hard the solid
+white line is our virtual paddock the
+
+394
+00:07:51,249 --> 00:07:51,259
+white line is our virtual paddock the
+ 
+
+395
+00:07:51,259 --> 00:07:53,659
+white line is our virtual paddock the
+dotted lines offenses that have been
+
+396
+00:07:53,659 --> 00:07:53,669
+dotted lines offenses that have been
+ 
+
+397
+00:07:53,669 --> 00:07:57,469
+dotted lines offenses that have been
+drawn but are not activated so and in
+
+398
+00:07:57,469 --> 00:07:57,479
+drawn but are not activated so and in
+ 
+
+399
+00:07:57,479 --> 00:07:59,209
+drawn but are not activated so and in
+the instance of a 30-day period with
+
+400
+00:07:59,209 --> 00:07:59,219
+the instance of a 30-day period with
+ 
+
+401
+00:07:59,219 --> 00:08:01,579
+the instance of a 30-day period with
+this so this virtual fence we had a 97%
+
+402
+00:08:01,579 --> 00:08:01,589
+this so this virtual fence we had a 97%
+ 
+
+403
+00:08:01,589 --> 00:08:06,259
+this so this virtual fence we had a 97%
+virtual fence effectiveness yeah so that
+
+404
+00:08:06,259 --> 00:08:06,269
+virtual fence effectiveness yeah so that
+ 
+
+405
+00:08:06,269 --> 00:08:09,290
+virtual fence effectiveness yeah so that
+that will come in is put what off our
+
+406
+00:08:09,290 --> 00:08:09,300
+that will come in is put what off our
+ 
+
+407
+00:08:09,300 --> 00:08:14,209
+that will come in is put what off our
+mute latest role to just can I talk to
+
+408
+00:08:14,209 --> 00:08:14,219
+mute latest role to just can I talk to
+ 
+
+409
+00:08:14,219 --> 00:08:17,269
+mute latest role to just can I talk to
+you briefly about our two latest trials
+
+410
+00:08:17,269 --> 00:08:17,279
+you briefly about our two latest trials
+ 
+
+411
+00:08:17,279 --> 00:08:19,850
+you briefly about our two latest trials
+that we've just just finished this one
+
+412
+00:08:19,850 --> 00:08:19,860
+that we've just just finished this one
+ 
+
+413
+00:08:19,860 --> 00:08:22,249
+that we've just just finished this one
+was a cow and calf trial held at par mu
+
+414
+00:08:22,249 --> 00:08:22,259
+was a cow and calf trial held at par mu
+ 
+
+415
+00:08:22,259 --> 00:08:24,889
+was a cow and calf trial held at par mu
+and why poor in New Zealand earlier this
+
+416
+00:08:24,889 --> 00:08:24,899
+and why poor in New Zealand earlier this
+ 
+
+417
+00:08:24,899 --> 00:08:26,809
+and why poor in New Zealand earlier this
+year this was the first cow and calf
+
+418
+00:08:26,809 --> 00:08:26,819
+year this was the first cow and calf
+ 
+
+419
+00:08:26,819 --> 00:08:28,279
+year this was the first cow and calf
+trial that we've conducted with our
+
+420
+00:08:28,279 --> 00:08:28,289
+trial that we've conducted with our
+ 
+
+421
+00:08:28,289 --> 00:08:32,149
+trial that we've conducted with our
+essence basically we are wanting to find
+
+422
+00:08:32,149 --> 00:08:32,159
+essence basically we are wanting to find
+ 
+
+423
+00:08:32,159 --> 00:08:34,610
+essence basically we are wanting to find
+our 10 cows with cards at Foot Beacon
+
+424
+00:08:34,610 --> 00:08:34,620
+our 10 cows with cards at Foot Beacon
+ 
+
+425
+00:08:34,620 --> 00:08:36,679
+our 10 cows with cards at Foot Beacon
+tight be contained by a virtual fence
+
+426
+00:08:36,679 --> 00:08:36,689
+tight be contained by a virtual fence
+ 
+
+427
+00:08:36,689 --> 00:08:39,049
+tight be contained by a virtual fence
+where cars can roam freely so all the
+
+428
+00:08:39,049 --> 00:08:39,059
+where cars can roam freely so all the
+ 
+
+429
+00:08:39,059 --> 00:08:40,959
+where cars can roam freely so all the
+cows are collared and the cars are not
+
+430
+00:08:40,959 --> 00:08:40,969
+cows are collared and the cars are not
+ 
+
+431
+00:08:40,969 --> 00:08:44,119
+cows are collared and the cars are not
+we are two groups of Angus cows in two
+
+432
+00:08:44,119 --> 00:08:44,129
+we are two groups of Angus cows in two
+ 
+
+433
+00:08:44,129 --> 00:08:50,120
+we are two groups of Angus cows in two
+paddocks side-by-side as you can see all
+
+434
+00:08:50,120 --> 00:08:50,130
+paddocks side-by-side as you can see all
+ 
+
+435
+00:08:50,130 --> 00:08:52,069
+paddocks side-by-side as you can see all
+cows are followed so that we could GPS
+
+436
+00:08:52,069 --> 00:08:52,079
+cows are followed so that we could GPS
+ 
+
+437
+00:08:52,079 --> 00:08:53,660
+cows are followed so that we could GPS
+track them but
+
+438
+00:08:53,660 --> 00:08:53,670
+track them but
+ 
+
+439
+00:08:53,670 --> 00:08:55,190
+track them but
+the One paddock had the virtual fence
+
+440
+00:08:55,190 --> 00:08:55,200
+the One paddock had the virtual fence
+ 
+
+441
+00:08:55,200 --> 00:08:57,440
+the One paddock had the virtual fence
+turned on and activated the other
+
+442
+00:08:57,440 --> 00:08:57,450
+turned on and activated the other
+ 
+
+443
+00:08:57,450 --> 00:08:59,240
+turned on and activated the other
+paddock we use the conventional electric
+
+444
+00:08:59,240 --> 00:08:59,250
+paddock we use the conventional electric
+ 
+
+445
+00:08:59,250 --> 00:09:01,760
+paddock we use the conventional electric
+fence so in the training paddock in the
+
+446
+00:09:01,760 --> 00:09:01,770
+fence so in the training paddock in the
+ 
+
+447
+00:09:01,770 --> 00:09:03,350
+fence so in the training paddock in the
+left hand picture we've got the virtual
+
+448
+00:09:03,350 --> 00:09:03,360
+left hand picture we've got the virtual
+ 
+
+449
+00:09:03,360 --> 00:09:04,910
+left hand picture we've got the virtual
+fence in the left-hand paddock and we've
+
+450
+00:09:04,910 --> 00:09:04,920
+fence in the left-hand paddock and we've
+ 
+
+451
+00:09:04,920 --> 00:09:06,290
+fence in the left-hand paddock and we've
+got the electric fence in the right-hand
+
+452
+00:09:06,290 --> 00:09:06,300
+got the electric fence in the right-hand
+ 
+
+453
+00:09:06,300 --> 00:09:08,690
+got the electric fence in the right-hand
+paddock in the training period we placed
+
+454
+00:09:08,690 --> 00:09:08,700
+paddock in the training period we placed
+ 
+
+455
+00:09:08,700 --> 00:09:10,550
+paddock in the training period we placed
+an electric fence across the top corner
+
+456
+00:09:10,550 --> 00:09:10,560
+an electric fence across the top corner
+ 
+
+457
+00:09:10,560 --> 00:09:13,160
+an electric fence across the top corner
+of the paddock in the blue section and a
+
+458
+00:09:13,160 --> 00:09:13,170
+of the paddock in the blue section and a
+ 
+
+459
+00:09:13,170 --> 00:09:15,530
+of the paddock in the blue section and a
+virtual fence in the white on the green
+
+460
+00:09:15,530 --> 00:09:15,540
+virtual fence in the white on the green
+ 
+
+461
+00:09:15,540 --> 00:09:17,750
+virtual fence in the white on the green
+section in the left hand paddock we
+
+462
+00:09:17,750 --> 00:09:17,760
+section in the left hand paddock we
+ 
+
+463
+00:09:17,760 --> 00:09:19,940
+section in the left hand paddock we
+allowed ten days of training with that
+
+464
+00:09:19,940 --> 00:09:19,950
+allowed ten days of training with that
+ 
+
+465
+00:09:19,950 --> 00:09:24,200
+allowed ten days of training with that
+we had 99.99% of effectiveness after
+
+466
+00:09:24,200 --> 00:09:24,210
+we had 99.99% of effectiveness after
+ 
+
+467
+00:09:24,210 --> 00:09:25,580
+we had 99.99% of effectiveness after
+that we moved on the stage one where
+
+468
+00:09:25,580 --> 00:09:25,590
+that we moved on the stage one where
+ 
+
+469
+00:09:25,590 --> 00:09:27,860
+that we moved on the stage one where
+we've tightened the fence up we talked
+
+470
+00:09:27,860 --> 00:09:27,870
+we've tightened the fence up we talked
+ 
+
+471
+00:09:27,870 --> 00:09:29,720
+we've tightened the fence up we talked
+about five hectares of land off of the
+
+472
+00:09:29,720 --> 00:09:29,730
+about five hectares of land off of the
+ 
+
+473
+00:09:29,730 --> 00:09:34,910
+about five hectares of land off of the
+puddle in stage one we had a nut we we
+
+474
+00:09:34,910 --> 00:09:34,920
+puddle in stage one we had a nut we we
+ 
+
+475
+00:09:34,920 --> 00:09:36,650
+puddle in stage one we had a nut we we
+did this for nine days and before those
+
+476
+00:09:36,650 --> 00:09:36,660
+did this for nine days and before those
+ 
+
+477
+00:09:36,660 --> 00:09:37,940
+did this for nine days and before those
+nine days we had a hundred percent
+
+478
+00:09:37,940 --> 00:09:37,950
+nine days we had a hundred percent
+ 
+
+479
+00:09:37,950 --> 00:09:39,890
+nine days we had a hundred percent
+effectiveness on holding these cows in
+
+480
+00:09:39,890 --> 00:09:39,900
+effectiveness on holding these cows in
+ 
+
+481
+00:09:39,900 --> 00:09:43,370
+effectiveness on holding these cows in
+this section when we really really
+
+482
+00:09:43,370 --> 00:09:43,380
+this section when we really really
+ 
+
+483
+00:09:43,380 --> 00:09:45,050
+this section when we really really
+enjoyed working with karma on this and
+
+484
+00:09:45,050 --> 00:09:45,060
+enjoyed working with karma on this and
+ 
+
+485
+00:09:45,060 --> 00:09:46,760
+enjoyed working with karma on this and
+we've got some really great results over
+
+486
+00:09:46,760 --> 00:09:46,770
+we've got some really great results over
+ 
+
+487
+00:09:46,770 --> 00:09:49,730
+we've got some really great results over
+the period of the entire trial so that's
+
+488
+00:09:49,730 --> 00:09:49,740
+the period of the entire trial so that's
+ 
+
+489
+00:09:49,740 --> 00:09:53,090
+the period of the entire trial so that's
+just a little snapshot moving on to the
+
+490
+00:09:53,090 --> 00:09:53,100
+just a little snapshot moving on to the
+ 
+
+491
+00:09:53,100 --> 00:09:54,650
+just a little snapshot moving on to the
+Queensland rangeland trial this is the
+
+492
+00:09:54,650 --> 00:09:54,660
+Queensland rangeland trial this is the
+ 
+
+493
+00:09:54,660 --> 00:09:56,360
+Queensland rangeland trial this is the
+biggest trial that we've got running at
+
+494
+00:09:56,360 --> 00:09:56,370
+biggest trial that we've got running at
+ 
+
+495
+00:09:56,370 --> 00:09:59,720
+biggest trial that we've got running at
+the moment we've just conducted the 250
+
+496
+00:09:59,720 --> 00:09:59,730
+the moment we've just conducted the 250
+ 
+
+497
+00:09:59,730 --> 00:10:02,060
+the moment we've just conducted the 250
+kg that you just saw this has been run
+
+498
+00:10:02,060 --> 00:10:02,070
+kg that you just saw this has been run
+ 
+
+499
+00:10:02,070 --> 00:10:04,550
+kg that you just saw this has been run
+out of Glendon in land of the Mekhi on
+
+500
+00:10:04,550 --> 00:10:04,560
+out of Glendon in land of the Mekhi on
+ 
+
+501
+00:10:04,560 --> 00:10:07,100
+out of Glendon in land of the Mekhi on
+hill along station up here we started
+
+502
+00:10:07,100 --> 00:10:07,110
+hill along station up here we started
+ 
+
+503
+00:10:07,110 --> 00:10:08,210
+hill along station up here we started
+with a model of two hundred and fifty
+
+504
+00:10:08,210 --> 00:10:08,220
+with a model of two hundred and fifty
+ 
+
+505
+00:10:08,220 --> 00:10:10,640
+with a model of two hundred and fifty
+head of Brahman steers in this trial we
+
+506
+00:10:10,640 --> 00:10:10,650
+head of Brahman steers in this trial we
+ 
+
+507
+00:10:10,650 --> 00:10:12,350
+head of Brahman steers in this trial we
+were wanting to complete some very new
+
+508
+00:10:12,350 --> 00:10:12,360
+were wanting to complete some very new
+ 
+
+509
+00:10:12,360 --> 00:10:14,690
+were wanting to complete some very new
+actions with the e Shepard system known
+
+510
+00:10:14,690 --> 00:10:14,700
+actions with the e Shepard system known
+ 
+
+511
+00:10:14,700 --> 00:10:17,090
+actions with the e Shepard system known
+as a contiguous model ooh this is where
+
+512
+00:10:17,090 --> 00:10:17,100
+as a contiguous model ooh this is where
+ 
+
+513
+00:10:17,100 --> 00:10:19,730
+as a contiguous model ooh this is where
+we have having a moving virtual fence
+
+514
+00:10:19,730 --> 00:10:19,740
+we have having a moving virtual fence
+ 
+
+515
+00:10:19,740 --> 00:10:21,920
+we have having a moving virtual fence
+that herds your paddle from the old
+
+516
+00:10:21,920 --> 00:10:21,930
+that herds your paddle from the old
+ 
+
+517
+00:10:21,930 --> 00:10:24,350
+that herds your paddle from the old
+party or paddock to a new fresh party a
+
+518
+00:10:24,350 --> 00:10:24,360
+party or paddock to a new fresh party a
+ 
+
+519
+00:10:24,360 --> 00:10:25,880
+party or paddock to a new fresh party a
+panic instead of allowing them to move
+
+520
+00:10:25,880 --> 00:10:25,890
+panic instead of allowing them to move
+ 
+
+521
+00:10:25,890 --> 00:10:28,640
+panic instead of allowing them to move
+freely we captured this in a bit of a
+
+522
+00:10:28,640 --> 00:10:28,650
+freely we captured this in a bit of a
+ 
+
+523
+00:10:28,650 --> 00:10:37,280
+freely we captured this in a bit of a
+video so here we have this moving the
+
+524
+00:10:37,280 --> 00:10:37,290
+video so here we have this moving the
+ 
+
+525
+00:10:37,290 --> 00:10:38,900
+video so here we have this moving the
+white line will start to move and push
+
+526
+00:10:38,900 --> 00:10:38,910
+white line will start to move and push
+ 
+
+527
+00:10:38,910 --> 00:10:41,300
+white line will start to move and push
+those cattle forward the great thing
+
+528
+00:10:41,300 --> 00:10:41,310
+those cattle forward the great thing
+ 
+
+529
+00:10:41,310 --> 00:10:43,040
+those cattle forward the great thing
+about that moving white line if there's
+
+530
+00:10:43,040 --> 00:10:43,050
+about that moving white line if there's
+ 
+
+531
+00:10:43,050 --> 00:10:45,350
+about that moving white line if there's
+any cattle behind that white line it
+
+532
+00:10:45,350 --> 00:10:45,360
+any cattle behind that white line it
+ 
+
+533
+00:10:45,360 --> 00:10:47,150
+any cattle behind that white line it
+will not move until they come in front
+
+534
+00:10:47,150 --> 00:10:47,160
+will not move until they come in front
+ 
+
+535
+00:10:47,160 --> 00:10:49,790
+will not move until they come in front
+of it so they can only fall 150 metres
+
+536
+00:10:49,790 --> 00:10:49,800
+of it so they can only fall 150 metres
+ 
+
+537
+00:10:49,800 --> 00:10:51,740
+of it so they can only fall 150 metres
+behind the white line before and it
+
+538
+00:10:51,740 --> 00:10:51,750
+behind the white line before and it
+ 
+
+539
+00:10:51,750 --> 00:10:53,270
+behind the white line before and it
+won't move until they come and catch
+
+540
+00:10:53,270 --> 00:10:53,280
+won't move until they come and catch
+ 
+
+541
+00:10:53,280 --> 00:10:55,370
+won't move until they come and catch
+back up to that white line so it's
+
+542
+00:10:55,370 --> 00:10:55,380
+back up to that white line so it's
+ 
+
+543
+00:10:55,380 --> 00:10:57,110
+back up to that white line so it's
+hurting them across into that fresh part
+
+544
+00:10:57,110 --> 00:10:57,120
+hurting them across into that fresh part
+ 
+
+545
+00:10:57,120 --> 00:11:01,950
+hurting them across into that fresh part
+of the paddock
+
+546
+00:11:01,950 --> 00:11:01,960
+
+ 
+
+547
+00:11:01,960 --> 00:11:05,960
+
+pretty self-explanatory it's pretty cool
+
+548
+00:11:05,960 --> 00:11:05,970
+
+ 
+
+549
+00:11:05,970 --> 00:11:08,150
+
+sorry
+
+550
+00:11:08,150 --> 00:11:08,160
+sorry
+ 
+
+551
+00:11:08,160 --> 00:11:10,890
+sorry
+so basically in closing off a distance
+
+552
+00:11:10,890 --> 00:11:10,900
+so basically in closing off a distance
+ 
+
+553
+00:11:10,900 --> 00:11:12,690
+so basically in closing off a distance
+is very proud of the II Shepard product
+
+554
+00:11:12,690 --> 00:11:12,700
+is very proud of the II Shepard product
+ 
+
+555
+00:11:12,700 --> 00:11:14,579
+is very proud of the II Shepard product
+they have developed and it's a product
+
+556
+00:11:14,579 --> 00:11:14,589
+they have developed and it's a product
+ 
+
+557
+00:11:14,589 --> 00:11:16,260
+they have developed and it's a product
+based on animal behavior and training
+
+558
+00:11:16,260 --> 00:11:16,270
+based on animal behavior and training
+ 
+
+559
+00:11:16,270 --> 00:11:19,500
+based on animal behavior and training
+algorithms that bring huge benefits to
+
+560
+00:11:19,500 --> 00:11:19,510
+algorithms that bring huge benefits to
+ 
+
+561
+00:11:19,510 --> 00:11:21,450
+algorithms that bring huge benefits to
+the property owners with reduced labor
+
+562
+00:11:21,450 --> 00:11:21,460
+the property owners with reduced labor
+ 
+
+563
+00:11:21,460 --> 00:11:23,670
+the property owners with reduced labor
+improved pasture utilization and the
+
+564
+00:11:23,670 --> 00:11:23,680
+improved pasture utilization and the
+ 
+
+565
+00:11:23,680 --> 00:11:25,470
+improved pasture utilization and the
+ability to protect rivers and sensitive
+
+566
+00:11:25,470 --> 00:11:25,480
+ability to protect rivers and sensitive
+ 
+
+567
+00:11:25,480 --> 00:11:27,690
+ability to protect rivers and sensitive
+environments we are so happy to be able
+
+568
+00:11:27,690 --> 00:11:27,700
+environments we are so happy to be able
+ 
+
+569
+00:11:27,700 --> 00:11:29,430
+environments we are so happy to be able
+to bring you this ball first in virtual
+
+570
+00:11:29,430 --> 00:11:29,440
+to bring you this ball first in virtual
+ 
+
+571
+00:11:29,440 --> 00:11:32,190
+to bring you this ball first in virtual
+fencing systems
+
