@@ -471,8 +471,6 @@ IEEE conference templates contain guidance text for composing and formatting con
 
 
 
-
-
 **Project** Aim
 To design, implement, and evaluate a virtual fencing system using IoT
 technologies to monitor livestock movements and control their movement within
@@ -510,6 +508,261 @@ Scientific Paper Layout
     7. Conclusion and Future Directions: Summary of key findings, system limitations, and suggestions for future improvements.
 
 This project framework outlines a detailed approach for developing an innovative virtual fencing solution that leverages IoT technologies to improve livestock management and sustainability practices.
+
+
+
+-----------------------------------------------------
+
+
+Abstract—In this section you include your abstract which is not more than 300 words. An abstract act like a 'mini' version of the paper and follows the same structure as the main text (that is discussed below). It contains 4Ps of a successful abstract (Problem, Purpose, Process and Possible outcomes. It contains: (i) an introduction to the topic (Problem and purpose); (ii) the main material, method and research design – used or used (Process); and (iii) mentions the recommendations/outcomes (Possible outcomes).
+
+Keywords— virtual fence, livestock, IoT,
+
+    Introduction
+
+In the dynamic world of agricultural technology, the advent of Internet of Things (IoT) has revolutionized traditional practices, paving the way for more efficient and sustainable livestock management. The concept of virtual fencing, coupled with advanced monitoring and animal tracking capabilities, stands at the forefront of this transformation. This innovative approach not only promises enhanced control over grazing patterns but also ensures the well-being of the animals through meticulous tracking and behaviour analysis.
+
+Virtual fencing harnesses the power of IoT to create invisible boundaries that can be adjusted in real-time, eliminating the need for physical barriers. This flexibility will allow farmers to manage pastures more effectively, optimizing land use and reducing environmental impact. Meanwhile, IoT-based tracking systems provide a wealth of data, from location to health metrics, enabling proactive management and swift response to any issues that arise.
+
+As we delve into the intricacies of virtual fencing and IoT-based animal tracking, we uncover a constructive collaboration that could redefine livestock management for generations to come. The integration of these technologies not only enhances the efficiency of farm operations but also aligns with the global pursuit of sustainable agriculture.
+
+Virtual fencing is an innovative technique that can be used for the animal control that eliminates the need for physical fences or walls. It is a virtual boundary around a real-world geographical area.  There are different virtual fences, it can be circular or polygonal ones.  In this paper we will be using a polygonal virtual Instead of traditional. When animals attempts to cross an electronically defined boundary, these signals are transmitted to discourage further movement. Although invisible to the naked eye, the electronic device worn by the animal detects this demarcation.
+
+
+
+    Define project problems
+
+Recent statistics indicate that stock theft has seen a marginal increase of 0.6% in the third quarter of the 2022/23 financial year. Gauteng experienced the largest increase of 39.8%, followed by the Northern Cape with a 31.3% increase[1]. It’s also noted that a significant portion of stock theft cases go unreported, with estimates suggesting that around 70.7% of cases are not reported[2].
+
+IoT-based virtual fencing can assist in mitigating stock theft through real-time monitoring and tracking of livestock. This technology allows for the creation of geofences, which are virtual boundaries that can be adjusted as needed without physical barriers. When an animal approaches or crosses these boundaries, farmers can receive alerts. Additionally, IoT devices can track the health and behaviour of animals, providing valuable data that can be used to improve farm management and security[3].
+
+By integrating IoT-based systems, farmers can enhance their ability to monitor livestock movements, detect unusual behaviour that may indicate theft, and respond promptly to secure their assets. This proactive approach to livestock management not only helps in preventing stock theft but also contributes to the overall well-being and productivity of the herd.
+
+This project attempts to address several key problems in livestock management:
+
+    Land Management: It allows for more efficient use of pastureland, as virtual fences can be easily moved to manage grazing patterns without the need for physical barriers[3].
+
+    Environmental Impact: By controlling where livestock graze, it helps prevent overgrazing and land degradation, contributing to more sustainable farming practices[3].
+
+    Labor Costs: Reduces the labor and resources required to build and maintain traditional fences, leading to cost savings for farmers [3].
+
+    Animal Welfare: Enhances the well-being of animals by monitoring their health and behavior, allowing for timely intervention when necessary [4].
+
+    Theft Prevention: Offers a solution to stock theft by providing real-time alerts when animals move outside of designated boundaries [3].
+
+    Data Collection: Collects valuable data on livestock, which can be used for improving breeding programs, tracking diseases, and making informed management decisions[4].
+
+
+
+    Objectives or State project tasks
+
+The main goal of an IoT-based virtual fencing with monitoring and animal tracking capabilities project is to enhance livestock management through innovative technology. Here are the primary objectives:
+
+    Improve Livestock Management: Utilize IoT to monitor and manage livestock movements more efficiently [3].
+
+    Enhance Pasture Utilization: Optimize grazing patterns and pasture usage without the need for physical fences[3].
+
+    Increase Animal Welfare: Monitor the health and well-being of animals in real-time, allowing for immediate intervention when necessary[3].
+
+    Reduce Environmental Impact: Minimize land degradation and promote sustainable farming practices[3].
+
+    Prevent Stock Theft: Provide a security system that alerts farmers to potential thefts and tracks animal movements[3].
+
+    Lower Operational Costs: Decrease the labor and maintenance costs associated with traditional fencing[3].
+
+    Data-Driven Decisions: Collect and analyze data on livestock to inform better decision-making for breeding, health, and overall management [3].
+
+These objectives aim to create a more sustainable, efficient, and secure environment for livestock farming, leveraging the power of IoT to transform the industry and are:
+
+    Design of the Virtual Fencing System: Develop an IoT-based system that utilizes GPS, wireless communication, and wearable technology to create virtual boundaries for livestock.
+
+    Implementation of Monitoring and Tracking: Integrate sensors and devices to monitor the health and movement of animals, providing real-time data to farmers.
+
+    Evaluation of System Effectiveness: Assess the reliability, efficiency, and animal welfare implications of the virtual fencing system through field trials.
+
+    Development of a User Interface: Create a user-friendly interface for farmers to set boundaries, monitor animal locations and health, and receive alerts.
+
+In order to achieve this project, the following are the tasks to be undertaken:
+
+1. System Architecture Design: Develop the overall architecture of the virtual fencing system, including the selection of suitable IoT devices and sensors.
+
+2. IoT Device Configuration and Deployment: Configure the IoT devices with necessary firmware and software and deploy them on animals and within the farm environment.
+
+3. Software Development: Develop software for data collection, processing, and visualization. This includes creating algorithms for boundary detection and animal behavior analysis.
+
+4. Field Testing and Validation: Conduct extensive field testing to ensure the system's functionality and effectiveness in real-world conditions.
+
+5. User Interface Development: Design and implement a user interface that allows farmers to interact with the system easily.
+
+In the dynamic world of agricultural technology, the advent of Internet of Things (IoT) has revolutionized traditional practices, paving the way for more efficient and sustainable livestock management. The concept of virtual fencing, coupled with advanced monitoring and animal tracking capabilities, stands at the forefront of this transformation. This innovative approach not only promises enhanced control over grazing patterns but also ensures the well-being of the animals through meticulous tracking and behaviour analysis.
+
+Virtual fencing harnesses the power of IoT to create invisible boundaries that can be adjusted in real-time, eliminating the need for physical barriers. This flexibility will allow farmers to manage pastures more effectively, optimizing land use and reducing environmental impact. Meanwhile, IoT-based tracking systems provide a wealth of data, from location to health metrics, enabling proactive management and swift response to any issues that arise.
+
+As we delve into the intricacies of virtual fencing and IoT-based animal tracking, we uncover a constructive interaction that could redefine livestock management for generations to come. The integration of these technologies not only enhances the efficiency of farm operations but also aligns with the global pursuit of sustainable agriculture.
+
+     Virtual fencing is an innovative technique that can be used for the animal control that eliminates the need for physical fences or walls. It is a virtual boundary around a real-world geographical area.  There are different virtual fences, it can be circular or polygonal ones.  In this paper we will be using a polygonal
+
+    Literature
+
+    General literature about your project
+
+Virtual Fencing Techniques: Studies have explored different methods of virtual fencing, focusing on auditory, electrical, or a combination of stimuli to control animal behavior. These methods are categorized into static and dynamic virtual fences, each with its own technical characteristics, advantages, and disadvantages12.
+
+Animal Control and Behavior Modification: Research has shown that virtual fencing can effectively modify the behavior of animals, allowing for better management of free-range livestock. This is achieved by transmitting sensory signals to the animals when they attempt to cross electronically constructed boundaries12.
+
+Ecological and Economic Benefits: Virtual fencing advances ecological management by transforming physical labor into cognitive labor. It also reduces the resources and labor costs associated with traditional fencing, thus offering economic benefits12.
+
+Challenges and Limitations: While the potential of virtual fencing is significant, the literature also discusses the remaining challenges for optimal animal control, such as stress on animals, reliability of the technology, and the need for further research on the long-term effects12.
+
+IoT Advancements: The integration of IoT technology has expanded the capabilities of virtual fencing, covering almost every aspect of animal life, including health monitoring and movement tracking1.
+
+Practical Applications: Some papers present practical experiences and propose algorithms for virtual fencing, leveraging current sensor and embedded system technologies to enhance livestock management34.
+
+    Similar Studies
+
+The following are the similar studies of the topic that we are working on:
+
+    Virtual Fencing Technology for Cattle Management in the Pasture Feeding System [5].
+
+    The method of the above focuses on using virtual fencing technology to manage cattle for pasture feeding. The study further provides technical comparison of different systems that are currently on the market.
+
+    Gap: The view of the study is that there still a need for an improvement that will decrease the cost and increase efficiency of the technology.
+
+    Monitoring and controlling behaviors of livestock using virtual fences[6].
+
+    The method used in the above-mentioned study is that it uses sound and a electronic shocker in controlling the livestock. The paper outlines the intention of adding health information as their future work.
+
+    Gap: The study failed to consider the health risk of the electric shocker and the behavioral change of the tools used.
+
+    Monitoring Cattle Grazing Behavior and Intrusion Using Global Positioning System and Virtual Fencing[7].
+
+    The study above used a different approach on also looking at what others have said about the use of global positioning system and virtual fencing. The authors improved on what others has already implemented. They further looked into the comparison of various IoT devices.
+
+    Automated Virtual Fencing Can Effectively Contain Trials and Prospects[8].
+
+    The method of the study mainly focuses on the commercialized IoT devices that are mainly used in cattle. The focus of the study was to use sheep in order to determine how they will react towards the technology.
+
+    Gap: The study was to put the commercialized technology into trial to see their effectiveness on sheep. It was concluded that the were effective however they still need an improvement when it comes to sheep than cattle.
+
+    Does Virtual Fencing Work for Grazing Dairy Cattle[9]?
+
+    The method of the study was to mainly demonstrate commercialized automated virtual fence collar on cattle. However, the study shows an extreme variation from one animal to another.
+
+    Gap: To determine the impact of monitoring of the virtual fence and IoT device on require implementing it over a longer duration. However, the study only implemented it over a short period of time, which might impact the study's outcome.
+
+    Materials and Methods
+
+    Research design
+
+A mixed-method research design will be used to develop an IoT-Based Virtual Fencing System with Advanced Monitoring and Animal Tracking Capabilities. This design will include quantitative data collection and analysis and qualitative research methods to gather insights from farmers on how it affects cattle. The project will utilize design thinking, which emphasizes a human-centered approach to problem-solving and innovation. The scientific and engineering process will involve conducting a thorough literature review, designing, and prototyping the virtual fencing system, testing, and refining the system through iterative feedback loops, and evaluating its effectiveness in real-world settings. Additionally, the research will involve collaboration with experts in IoT technology, animal behavior, and agriculture to ensure the system meets the needs and requirements of its intended users.
+
+    System Diagram
+
+The IoT-based Virtual Fencing System with Advanced Monitoring and Animal Tracking Capabilities will use modern web technologies like JavaScript, Node.js, and HTML to create a user-friendly front-end interface. Real-time data communication between the client and server will be enabled through a Web socket server, ensuring smooth and efficient information exchange. Furthermore, the system will utilize GPS location services from Azure Maps to accurately track and monitor the movement of animals within the virtual fencing area. The diagram below gives a detailed overview of the system architecture, highlighting how these technologies are integrated for optimal performance and functionality.
+
+    Research Tools
+
+A variety of innovative tools and technologies will be utilized in the development of the IoT-Based Virtual Fencing System with Advanced Monitoring and Animal Tracking Capabilities. These tools include ESP32 development boards, which will serve as the core hardware component for implementing the IoT functionalities of the system. Additionally, GPS sensors and trackers will be integrated to enable precise location tracking of animals within the virtual fencing area. The use of a 3D printer will allow for the fabrication of custom cases to house the electronic components securely.
+
+Furthermore, a web server hosted online will provide the necessary infrastructure for remote access and data storage, ensuring seamless connectivity and accessibility for users. To interact with the system, users will require a computer with internet access or a compatible web browser, enabling them to monitor and manage the virtual fencing system from any location. These research tools will be instrumental in the successful development and deployment of the innovative IoT-based solution.
+
+    Ethical Clearance, Health, and Safety
+
+One of the critical aspects is to ensure that the technology that is going to be deployed adheres to the ethical guidelines and regulations. Furthermore, the project should not cause any harm, distress, or discomfort.
+
+In addition, the people/ farmers who will be involved in the project when they are installing or/ maintaining the system must always follow safety protocols.
+
+ Any data collected from animals or farm workers will be handled securely and confidentially.
+
+    Expected Output
+
+    Benefits to Society
+
+
+
+   The implementation of an IoT-Based Virtual Fencing System with Advanced Monitoring and Animal Tracking Capabilities promises numerous benefits for society. The following are the benefits it brings to the society:
+
+    Enhanced Food Security:
+
+    By enabling efficient management and monitoring of livestock, this system ensures a consistent and reliable food supply.
+
+    Leveraging technology streamlines farming processes, leading to higher yields with reduced labour requirements.
+
+    This contributes to increased productivity and sustainability in food production.
+
+    Market Dynamics Transformation:
+
+    Widespread adoption of this technology on a large scale can positively impact the agricultural industry.
+
+    Optimized livestock management and reduced operational costs can drive down the price of beef and other livestock products.
+
+    Consumers benefit from more accessible and affordable high-quality meat products.
+
+    Simultaneously, this supports the economic viability of farmers and ranchers.
+
+    Beyond Agriculture:
+
+    The societal benefits extend beyond the agricultural sector.
+
+    This innovative technology offers a sustainable and efficient solution for food production and resource management.
+
+    Study Limitations
+
+
+
+The project will be using IoT devices that might have accuracy challenges which might affect the effectiveness of virtual fencing. The above will lead to errors in boundary detections that might lead to the unintended animal crossing the virtual line or false alarms.
+
+ IoT devices used for tracking and virtual fencing require power (batteries and solar panels). Therefore, the IoT devices will be required to be regularly maintained to ensure that they function properly.
+
+Different animal species may exhibit varying responses to this project. What works effectively on one animal may work differently to the other one.
+
+Lastly the environmental factors must be considered when implementing this project, for example weather conditions might have an impact on the performance of the IoT device to be used.
+
+References
+
+
+
+    [1]	A. Coleman. "Stock theft statistics do not paint a true picture of the crime in SA." https://www.farmersweekly.co.za/agri-news/south-africa/stock-theft-statistics-do-not-paint-a-true-picture-of-the-crime-in-sa/ (accessed.
+
+    [2]	J. d. Klerk. "The impact of stock theft." saai.org. https://saai.org/en/the-impact-of-stock-theft/ (accessed.
+
+    [3]	M. Abdouna, D. Ahmat, and T. F. Bissyandé, "Virtual Fences: A Systematic Literature Review," Cham, 2023: Springer Nature Switzerland, in Towards new e-Infrastructure and e-Services for Developing Countries, pp. 115-148.
+
+    [4]	K. C. Reddy, S. K. R, S. Sharma, N. Gobi, S. D, and P. V. Prasanth, "Real-Time Tracking of Wildlife with IoT Solutions in Movement Ecology," Journal Of Advanced Zoology, vol. 44(S-3), pp. 1122-1134, October 2023 2023, doi: 10.17762/jaz.v44iS-5.1191.
+
+    [5]	P. Goliński, P. Sobolewska, B. Stefańska, and B. Golińska, "Virtual fencing technology for cattle management in the pasture feeding system—A review," Agriculture, vol. 13, no. 1, p. 91, 2022.
+
+    [6]	A. Muminov, D. Na, C. Lee, H. Kang, and H. S. Jeon, "Monitoring and controlling behaviors of livestock using virtual fences," J. Theor. Appl. Inf. Technol, vol. 97, no. 18, pp. 1-12, 2019.
+
+    [7]	R.-W. Bello and O. M. Moradeyo, "Monitoring cattle grazing behavior and intrusion using global positioning system and virtual fencing," Asian Journal of Mathematical Sciences, 2019.
+
+    [8]	D. L. Campbell et al., "Automated virtual fencing can effectively contain sheep: field trials and prospects," Animals, vol. 13, no. 4, p. 619, 2023.
+
+    [9]	S. Lomax, P. Colusso, and C. E. F. Clark, "Does Virtual Fencing Work for Grazing Dairy Cattle?," Animals, vol. 9, no. 7, p. 429, 2019. [Online]. Available: https://www.mdpi.com/2076-2615/9/7/429.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
 
 

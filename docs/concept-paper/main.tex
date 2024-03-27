@@ -14,8 +14,7 @@
 \title{
     Development of an IoT-Based Virtual Fencing System with Advanced Monitoring and
     Animal Tracking Capabilities\\
-{\footnotesize Engineering Project Design -
-Department of Computer System Engineering }
+{\footnotesize Engineering Project Design - EGD107V }
 % \thanks{Identify applicable funding agency here. If none, delete this.}
 }
 
@@ -50,7 +49,7 @@ Pretoria, South Africa\\
 \section{Introduction}
 The global demand for beef continues to escalate alongside the expanding
 population, underscoring the need for enhanced efficiency in beef production. To
-meet this growing demand sustainably, it is imperative to explore innovative
+meet this growing demand sustainably\cite{b1}, it is imperative to explore innovative
 solutions that optimize livestock management practices. This paper introduces a
 groundbreaking concept: a virtual fencing system empowered by IoT technology to
 revolutionize the way farmers manage and monitor their cattle operations. While
@@ -63,11 +62,85 @@ transformative approach not only enhances day-to-day farm management but also
 facilitates long-term planning, enabling farmers to make informed decisions and
 optimize productivity on their busy farms.
 
+\subsection{Define project problems}
+
+Recent statistics indicate that stock theft has seen a marginal increase of
+0.6\% in the third quarter of the 2022/23 financial year. Gauteng experienced
+the largest increase of 39.8\%, followed by the Northern Cape with a 31.3\%
+increase\cite{b1}. It’s also noted that a significant portion of stock theft cases go
+unreported, with estimates suggesting that around 70.7\% of cases are not
+reported\cite{b2}.
+
+% IoT-based virtual fencing can assist in mitigating stock theft through
+% real-time monitoring and tracking of livestock. This technology allows for the
+% creation of geofences, which are virtual boundaries that can be adjusted as
+% needed without physical barriers. When an animal approaches or crosses these
+% boundaries, farmers can receive alerts. Additionally, IoT devices can track the
+% health and behaviour of animals, providing valuable data that can be used to
+% improve farm management and security\cite{b3}.
+
+% By integrating IoT-based systems, farmers can enhance their ability to monitor
+% livestock movements, detect unusual behaviour that may indicate theft, and
+% respond promptly to secure their assets. This proactive approach to livestock
+% management not only helps in preventing stock theft but also contributes to the
+% overall well-being and productivity of the herd.
+
+This project attempts to address several key problems in livestock management:
+
+\begin{itemize}
+    \item   Land Management: It allows for more efficient use of pastureland, as virtual fences can be easily moved to manage grazing patterns without the need for physical barriers\cite{b4}.
+    \item   Environmental Impact: By controlling where livestock graze, it helps prevent overgrazing and land degradation, contributing to more sustainable farming practices\cite{b3}.
+    \item   Labor Costs: Reduces the labor and resources required to build and maintain traditional fences, leading to cost savings for farmers \cite{b3}.
+    \item   Animal Welfare: Enhances the well-being of animals by monitoring their health and behavior, allowing for timely intervention when necessary \cite{b4}.
+    \item   Theft Prevention: Offers a solution to stock theft by providing real-time alerts when animals move outside of designated boundaries \cite{b3}.
+\item   Data Collection: Collects valuable data on livestock, which can be used for improving breeding programs, tracking diseases, and making informed management decisions \cite{b4}.
+\end{itemize}
+
 
 \section{Literature}
 
+\subsection{Similar Studies}
 
-%%% I might be missing gap here, but I will come back to fill it in
+\begin{itemize}
+
+\item   Virtual Fencing Technology for Cattle Management in the Pasture Feeding
+    System \cite{b5}.
+        The method of the above focuses on using virtual fencing technology to
+        manage cattle for pasture feeding. The study further provides technical
+        comparison of different systems that are currently on the market.
+        Gap: The view of the study is that there still a need for an
+        improvement that will decrease the cost and increase efficiency of the
+        technology.
+
+\item   Monitoring and controlling behaviors of livestock using virtual
+    fences\cite{b6}.
+    The method used in the above-mentioned study is that it uses sound and a
+        electronic shocker in controlling the livestock. The paper outlines the
+        intention of adding health information as their future work.
+    Gap: The study failed to consider the health risk of the electric shocker and the behavioral change of the tools used.
+
+\item   Monitoring Cattle Grazing Behavior and Intrusion Using Global
+    Positioning System and Virtual Fencing\cite{b7}.
+
+\item The study above used a different approach on also looking at what others have said about the use of global positioning system and virtual fencing. The authors improved on what others has already implemented. They further looked into the comparison of various IoT devices.
+
+\item    Automated Virtual Fencing Can Effectively Contain Trials and Prospects\cite{b8}.
+    The method of the study mainly focuses on the commercialized IoT devices
+        that are mainly used in cattle. The focus of the study was to use sheep
+        in order to determine how they will react towards the technology.
+    Gap: The study was to put the commercialized technology into trial to see their effectiveness on sheep. It was concluded that the were effective however they still need an improvement when it comes to sheep than cattle.
+
+\item Does Virtual Fencing Work for Grazing Dairy Cattle\cite{b9}?
+\item The method of the study was to mainly demonstrate commercialized automated virtual fence collar on cattle. However, the study shows an extreme variation from one animal to another.
+
+\end{itemize}
+
+
+Gap:
+To determine the impact of monitoring of the virtual fence and IoT device on require implementing it over a longer duration. However, the study only implemented it over a short period of time, which might impact the study's outcome.
+
+
+
 \subsection{Virtual Fencing Techniques}
 
 Extensive studies have delved into various methods of virtual fencing,
@@ -138,11 +211,11 @@ below gives a detailed overview of the system architecture, showcasing how these
 technologies are integrated for optimal performance and functionality.
 
 \begin{figure}[htbp]
-\centerline{\includegraphics{fig1.png}}
-\caption{Example of a figure caption.}
+\centering
+\includegraphics[width=\columnwidth]{system-removebg-preview.png}
+\caption{System Overview}
 \label{fig}
 \end{figure}
-
 
 \subsection{Tools Analysis}
 
@@ -163,9 +236,17 @@ enabling them to monitor and manage the virtual fencing system from any
 location. These research tools will be instrumental in the successful
 development and deployment of the innovative IoT-based solution.
 
-\subsection{Ethical Clearance}
+\subsection{Ethical Clearance, Health, and Safety}
 
-% content needs to be here
+One of the critical aspects is to ensure that the technology that is going to
+be deployed adheres to the ethical guidelines and regulations. Furthermore, the
+project should not cause any harm, distress, or discomfort.
+
+In addition, the people or farmers who will be involved in the project when they
+are installing or maintaining the system must always follow safety protocols.
+
+Any data collected from animals or farm workers will be handled securely and
+confidentially.
 
 
 \section{Expected Outputs}
@@ -210,39 +291,60 @@ viability of farmers and ranchers. Overall, the societal benefits of this
 innovative technology extend beyond the agricultural sector, offering a
 sustainable and efficient solution for food production and resource management.
 
+\begin{enumerate}
 
-testing testing a
-An excellent style manual for science writers is \cite{b7}.
+    \item \textbf{Enhanced Food Security:}
+        \begin{itemize}
+        \item   By enabling efficient management and monitoring of livestock, this system ensures a consistent and reliable food supply.
+        \item   Leveraging technology streamlines farming processes, leading to higher yields with reduced labour requirements.
+        \item   This contributes to increased productivity and sustainability in food production.
+        \end{itemize}
 
-\section*{References}
+    \item \textbf{Market Dynamics Transformation:}
+        \begin{itemize}
+        \item   Widespread adoption of this technology on a large scale can positively impact the agricultural industry.
+        \item   Optimized livestock management and reduced operational costs can drive down the price of beef and other livestock products.
+        \item   Consumers benefit from more accessible and affordable high-quality meat products.
+        \item   Simultaneously, this supports the economic viability of farmers and ranchers.
+        \end{itemize}
 
-Please number citations consecutively within brackets \cite{b1}. The
-sentence punctuation follows the bracket \cite{b2}. Refer simply to the reference
-number, as in \cite{b3}---do not use ``Ref. \cite{b3}'' or ``reference \cite{b3}'' except at
-the beginning of a sentence: ``Reference \cite{b3} was the first $\ldots$''
+    \item \textbf{Beyond Agriculture:}
+        \begin{itemize}
+        \item   The societal benefits extend beyond the agricultural sector.
+        \item   This innovative technology offers a sustainable and efficient solution for food production and resource management.
+        \end{itemize}
 
-Number footnotes separately in superscripts. Place the actual footnote at
-the bottom of the column in which it was cited. Do not put footnotes in the
-abstract or reference list. Use letters for table footnotes.
+\end{enumerate}
 
-Unless there are six authors or more give all authors' names; do not use
-``et al.''. Papers that have not been published, even if they have been
-submitted for publication, should be cited as ``unpublished'' \cite{b4}. Papers
-that have been accepted for publication should be cited as ``in press'' \cite{b5}.
-Capitalize only the first word in a paper title, except for proper nouns and
-element symbols.
 
-For papers published in translation journals, please give the English
-citation first, followed by the original foreign-language citation \cite{b6}.
+\subsection*{Study Limitations}
+
+The project will be using IoT devices that might have accuracy challenges which
+might affect the effectiveness of virtual fencing. The above will lead to
+errors in boundary detections that might lead to the unintended animal crossing
+the virtual line or false alarms.
+
+IoT devices used for tracking and virtual fencing require power (batteries and
+solar panels). Therefore, the IoT devices will be required to be regularly
+maintained to ensure that they function properly.
+
+Different animal species may exhibit varying responses to this project. What
+works effectively on one animal may work differently to the other one.
+
+Lastly the environmental factors must be considered when implementing this
+project, for example weather conditions might have an impact on the performance
+of the IoT device to be used.
 
 \begin{thebibliography}{00}
-\bibitem{b1} G. Eason, B. Noble, and I. N. Sneddon, ``On certain integrals of Lipschitz-Hankel type involving products of Bessel functions,'' Phil. Trans. Roy. Soc. London, vol. A247, pp. 529--551, April 1955.
-\bibitem{b2} J. Clerk Maxwell, A Treatise on Electricity and Magnetism, 3rd ed., vol. 2. Oxford: Clarendon, 1892, pp.68--73.
-\bibitem{b3} I. S. Jacobs and C. P. Bean, ``Fine particles, thin films and exchange anisotropy,'' in Magnetism, vol. III, G. T. Rado and H. Suhl, Eds. New York: Academic, 1963, pp. 271--350.
-\bibitem{b4} K. Elissa, ``Title of paper if known,'' unpublished.
-\bibitem{b5} R. Nicole, ``Title of paper with only first word capitalized,'' J. Name Stand. Abbrev., in press.
-\bibitem{b6} Y. Yorozu, M. Hirano, K. Oka, and Y. Tagawa, ``Electron spectroscopy studies on magneto-optical media and plastic substrate interface,'' IEEE Transl. J. Magn. Japan, vol. 2, pp. 740--741, August 1987 [Digests 9th Annual Conf. Magnetics Japan, p. 301, 1982].
-\bibitem{b7} M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
+\bibitem{b1}	A. Coleman. "Stock theft statistics do not paint a true picture of the crime in SA." https://www.farmersweekly.co.za/agri-news/south-africa/stock-theft-statistics-do-not-paint-a-true-picture-of-the-crime-in-sa/ (accessed.
+\bibitem{b2}	J. d. Klerk. "The impact of stock theft." saai.org. https://saai.org/en/the-impact-of-stock-theft/ (accessed.
+\bibitem{b3}	M. Abdouna, D. Ahmat, and T. F. Bissyandé, "Virtual Fences: A Systematic Literature Review," Cham, 2023: Springer Nature Switzerland, in Towards new e-Infrastructure and e-Services for Developing Countries, pp. 115-148.
+\bibitem{b4}	K. C. Reddy, S. K. R, S. Sharma, N. Gobi, S. D, and P. V. Prasanth, "Real-Time Tracking of Wildlife with IoT Solutions in Movement Ecology," Journal Of Advanced Zoology, vol. 44(S-3), pp. 1122-1134, October 2023 2023, doi: 10.17762/jaz.v44iS-5.1191.
+\bibitem{b5}	P. Goliński, P. Sobolewska, B. Stefańska, and B. Golińska, "Virtual fencing technology for cattle management in the pasture feeding system—A review," Agriculture, vol. 13, no. 1, p. 91, 2022.
+\bibitem{b6}	A. Muminov, D. Na, C. Lee, H. Kang, and H. S. Jeon, "Monitoring and controlling behaviors of livestock using virtual fences," J. Theor. Appl. Inf. Technol, vol. 97, no. 18, pp. 1-12, 2019.
+\bibitem{b7}	R. W. Bello and O. M. Moradeyo, "Monitoring cattle grazing behavior and intrusion using global positioning system and virtual fencing," Asian Journal of Mathematical Sciences, 2019.
+\bibitem{b8}	D. L. Campbell et al., "Automated virtual fencing can effectively contain sheep: field trials and prospects," Animals, vol. 13, no. 4, p. 619, 2023.
+\bibitem{b9}	S. Lomax, P. Colusso, and C. E. F. Clark, "Does Virtual Fencing Work for Grazing Dairy Cattle?," Animals, vol. 9, no. 7, p. 429, 2019. [Online]. Available: https://www.mdpi.com/2076-2615/9/7/429.
 \end{thebibliography}
 
 

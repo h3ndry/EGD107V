@@ -2,7 +2,7 @@ DOC_NAME = sh_khoza_214651459_concept_paper
 
 build: main.tex main.cls main.bib
 	pdflatex -jobname=$(DOC_NAME) main.tex
-	biber $(DOC_NAME)
+	# biber $(DOC_NAME)
 	pdflatex -jobname=$(DOC_NAME) main.tex
 
 clean:
